@@ -1,9 +1,4 @@
----
-title: Bass Treble - 低音和高音
-order: 3
-category:
-  - AE
----
+# Bass Treble - 低音和高音
 
 ## 简述
 

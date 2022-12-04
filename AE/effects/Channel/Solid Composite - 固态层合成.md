@@ -1,9 +1,4 @@
----
-title: Solid Composite - 固态层合成
-order: 13
-category:
-  - AE
----
+# Solid Composite - 固态层合成
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Mosaic - 马赛克
-order: 19
-category:
-  - AE
----
+# Mosaic - 马赛克
 
 ## 简述
 

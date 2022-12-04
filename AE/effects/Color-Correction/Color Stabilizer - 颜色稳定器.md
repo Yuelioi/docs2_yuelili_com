@@ -1,9 +1,4 @@
----
-title: Color Stabilizer - 颜色稳定器
-order: 18
-category:
-  - AE
----
+# Color Stabilizer - 颜色稳定器
 
 ## 简述
 

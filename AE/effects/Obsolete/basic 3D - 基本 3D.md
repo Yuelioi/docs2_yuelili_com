@@ -1,9 +1,4 @@
----
-title: basic 3D - 基本 3D
-order: 2
-category:
-  - AE
----
+# basic 3D - 基本 3D
 
 ## 简述
 

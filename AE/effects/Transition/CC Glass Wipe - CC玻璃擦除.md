@@ -1,9 +1,4 @@
----
-title: CC Glass Wipe - CC玻璃擦除
-order: 4
-category:
-  - AE
----
+# CC Glass Wipe - CC玻璃擦除
 
 ## 简述
 

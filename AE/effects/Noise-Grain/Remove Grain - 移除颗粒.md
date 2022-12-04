@@ -1,9 +1,4 @@
----
-title: Remove Grain - 移除颗粒
-order: 12
-category:
-  - AE
----
+# Remove Grain - 移除颗粒
 
 ## 简述
 

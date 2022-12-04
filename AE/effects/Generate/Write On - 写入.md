@@ -1,9 +1,4 @@
----
-title: Write On - 写入
-order: 27
-category:
-  - AE
----
+# Write On - 写入
 
     # 简述 #
 

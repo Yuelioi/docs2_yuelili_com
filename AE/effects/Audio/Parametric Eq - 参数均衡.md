@@ -1,9 +1,4 @@
----
-title: Parametric Eq - 参数均衡
-order: 8
-category:
-  - AE
----
+# Parametric Eq - 参数均衡
 
 ## 简述
 

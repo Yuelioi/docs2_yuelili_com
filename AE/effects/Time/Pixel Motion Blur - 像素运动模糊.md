@@ -1,9 +1,4 @@
----
-title: Pixel Motion Blur - 像素运动模糊
-order: 5
-category:
-  - AE
----
+# Pixel Motion Blur - 像素运动模糊
 
 ## 简述
 

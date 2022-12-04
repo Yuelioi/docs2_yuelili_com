@@ -1,9 +1,4 @@
----
-title: CC Radial Blur - CC径向模糊
-order: 6
-category:
-  - AE
----
+# CC Radial Blur - CC径向模糊
 
 ## 简述
 

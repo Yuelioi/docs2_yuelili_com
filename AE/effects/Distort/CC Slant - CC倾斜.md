@@ -1,9 +1,4 @@
----
-title: CC Slant - CC倾斜
-order: 13
-category:
-  - AE
----
+# CC Slant - CC倾斜
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Refine Hard Matte - 调整实边遮罩
-order: 3
-category:
-  - AE
----
+# Refine Hard Matte - 调整实边遮罩
 
 ## 简述
 

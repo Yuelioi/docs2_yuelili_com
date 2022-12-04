@@ -1,9 +1,4 @@
----
-title: Compound Arithmetic - 复合运算
-order: 11
-category:
-  - AE
----
+# Compound Arithmetic - 复合运算
 
 ## 简述
 

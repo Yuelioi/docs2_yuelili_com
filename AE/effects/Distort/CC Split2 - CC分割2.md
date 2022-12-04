@@ -1,9 +1,4 @@
----
-title: CC Split2 - CC分割2
-order: 16
-category:
-  - AE
----
+# CC Split2 - CC分割2
 
 ## 简述
 

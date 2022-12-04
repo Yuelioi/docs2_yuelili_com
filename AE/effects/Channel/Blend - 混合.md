@@ -1,9 +1,4 @@
----
-title: Blend - 混合
-order: 3
-category:
-  - AE
----
+# Blend - 混合
 
 ## 简述
 

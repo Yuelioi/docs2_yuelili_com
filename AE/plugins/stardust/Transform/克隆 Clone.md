@@ -1,9 +1,4 @@
----
-title: 克隆 Clone
-order: 6
-category:
-  - AE
----
+# 克隆 Clone
 
 ## 克隆
 

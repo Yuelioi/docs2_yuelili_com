@@ -1,9 +1,4 @@
----
-title: Key Cleaner - 抠像清除器
-order: 9
-category:
-  - AE
----
+# Key Cleaner - 抠像清除器
 
 ## 简述
 

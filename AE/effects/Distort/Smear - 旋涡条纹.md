@@ -1,9 +1,4 @@
----
-title: Smear - 旋涡条纹
-order: 31
-category:
-  - AE
----
+# Smear - 旋涡条纹
 
 ## 简述
 

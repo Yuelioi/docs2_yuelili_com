@@ -1,9 +1,4 @@
----
-title: VR Shphere To Plane - VR球面到平面
-order: 13
-category:
-  - AE
----
+# VR Shphere To Plane - VR球面到平面
 
 ## 简述
 

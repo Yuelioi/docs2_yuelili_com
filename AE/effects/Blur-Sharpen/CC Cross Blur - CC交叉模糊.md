@@ -1,9 +1,4 @@
----
-title: CC Cross Blur - CC交叉模糊
-order: 5
-category:
-  - AE
----
+# CC Cross Blur - CC交叉模糊
 
 ## 简述
 

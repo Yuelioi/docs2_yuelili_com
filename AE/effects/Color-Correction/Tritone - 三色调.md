@@ -1,9 +1,4 @@
----
-title: Tritone - 三色调
-order: 34
-category:
-  - AE
----
+# Tritone - 三色调
 
 ## 简述
 

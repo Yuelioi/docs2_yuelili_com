@@ -1,9 +1,4 @@
----
-title: Channel Blur - 通道模糊
-order: 9
-category:
-  - AE
----
+# Channel Blur - 通道模糊
 
 ## 简述
 

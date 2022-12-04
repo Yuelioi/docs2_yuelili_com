@@ -1,9 +1,4 @@
----
-title: CC Particle Systems Ⅱ - CC 粒子系统Ⅱ
-order: 9
-category:
-  - AE
----
+# CC Particle Systems Ⅱ - CC 粒子系统Ⅱ
 
 ## 简述
 

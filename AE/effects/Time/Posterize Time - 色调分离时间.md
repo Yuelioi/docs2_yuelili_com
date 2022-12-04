@@ -1,9 +1,4 @@
----
-title: Posterize Time - 色调分离时间
-order: 6
-category:
-  - AE
----
+# Posterize Time - 色调分离时间
 
 ## 简述
 

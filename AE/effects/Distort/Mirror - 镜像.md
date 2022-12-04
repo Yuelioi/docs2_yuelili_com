@@ -1,9 +1,4 @@
----
-title: Mirror - 镜像
-order: 24
-category:
-  - AE
----
+# Mirror - 镜像
 
 ## 简述
 

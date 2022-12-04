@@ -1,9 +1,4 @@
----
-title: CC Bender - CC扭弯
-order: 5
-category:
-  - AE
----
+# CC Bender - CC扭弯
 
 ## 简述
 

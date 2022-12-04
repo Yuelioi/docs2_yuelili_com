@@ -1,9 +1,4 @@
----
-title: Radio Waves - 无线电波
-order: 23
-category:
-  - AE
----
+# Radio Waves - 无线电波
 
 ## 简述
 

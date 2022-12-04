@@ -1,9 +1,4 @@
----
-title: CC Force Motion Blur - CC强力运动模糊
-order: 2
-category:
-  - AE
----
+# CC Force Motion Blur - CC强力运动模糊
 
 ## 简述
 

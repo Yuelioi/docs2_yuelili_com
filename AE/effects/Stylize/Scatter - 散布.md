@@ -1,9 +1,4 @@
----
-title: Scatter - 散布
-order: 23
-category:
-  - AE
----
+# Scatter - 散布
 
 ## 简述
 

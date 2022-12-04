@@ -1,9 +1,4 @@
----
-title: 3D Point Control - 3D 点控制
-order: 2
-category:
-  - AE
----
+# 3D Point Control - 3D 点控制
 
 ## 简述
 

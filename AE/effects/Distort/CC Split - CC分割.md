@@ -1,9 +1,4 @@
----
-title: CC Split - CC分割
-order: 15
-category:
-  - AE
----
+# CC Split - CC分割
 
 ## 简述
 

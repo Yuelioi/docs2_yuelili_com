@@ -1,9 +1,4 @@
----
-title: Reduce Interlace Flicker - 减少交错闪烁
-order: 9
-category:
-  - AE
----
+# Reduce Interlace Flicker - 减少交错闪烁
 
 ## 简述
 

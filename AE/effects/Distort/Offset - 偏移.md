@@ -1,9 +1,4 @@
----
-title: Offset - 偏移
-order: 25
-category:
-  - AE
----
+# Offset - 偏移
 
 ## 简述
 

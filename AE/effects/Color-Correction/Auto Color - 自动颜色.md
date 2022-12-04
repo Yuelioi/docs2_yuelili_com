@@ -1,9 +1,4 @@
----
-title: Auto Color - 自动颜色
-order: 2
-category:
-  - AE
----
+# Auto Color - 自动颜色
 
 ## 简述
 

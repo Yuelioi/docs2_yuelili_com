@@ -1,9 +1,4 @@
----
-title: CC Light Rays - CC光线放射
-order: 9
-category:
-  - AE
----
+# CC Light Rays - CC光线放射
 
 ## 简述
 

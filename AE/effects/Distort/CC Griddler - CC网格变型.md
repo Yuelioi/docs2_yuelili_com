@@ -1,9 +1,4 @@
----
-title: CC Griddler - CC网格变型
-order: 8
-category:
-  - AE
----
+# CC Griddler - CC网格变型
 
 ## 简述
 

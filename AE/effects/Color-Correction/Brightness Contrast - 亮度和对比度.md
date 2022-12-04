@@ -1,9 +1,4 @@
----
-title: Brightness Contrast - 亮度和对比度
-order: 6
-category:
-  - AE
----
+# Brightness Contrast - 亮度和对比度
 
 ## 简述
 

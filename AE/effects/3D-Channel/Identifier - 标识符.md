@@ -1,9 +1,4 @@
----
-title: Identifier - 标识符
-order: 9
-category:
-  - AE
----
+# Identifier - 标识符
 
 ## 简述
 

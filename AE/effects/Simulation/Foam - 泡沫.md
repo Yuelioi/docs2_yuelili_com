@@ -1,9 +1,4 @@
----
-title: Foam - 泡沫
-order: 16
-category:
-  - AE
----
+# Foam - 泡沫
 
 ## 简述
 

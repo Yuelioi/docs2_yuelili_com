@@ -1,9 +1,4 @@
----
-title: 3D Glasses - 3D 眼镜
-order: 3
-category:
-  - AE
----
+# 3D Glasses - 3D 眼镜
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: CC Ripple Pulse - CC扩散波纹变形
-order: 12
-category:
-  - AE
----
+# CC Ripple Pulse - CC扩散波纹变形
 
 ## 简述
 

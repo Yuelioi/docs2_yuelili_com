@@ -1,9 +1,4 @@
----
-title: HDR Compander - HDR 压缩扩展器
-order: 7
-category:
-  - AE
----
+# HDR Compander - HDR 压缩扩展器
 
 ## 简述
 

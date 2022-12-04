@@ -1,9 +1,4 @@
----
-title: 预设(Presets)
-order: 3
-category:
-  - AE
----
+# 预设(Presets)
 
 ## Presets Browse 浏览预设
 

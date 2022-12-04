@@ -1,9 +1,4 @@
----
-title: Lumetri Color - Lumetri颜色
-order: 28
-category:
-  - AE
----
+# Lumetri Color - Lumetri颜色
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: CC Color Neutralizer - CC颜色中和剂
-order: 8
-category:
-  - AE
----
+# CC Color Neutralizer - CC颜色中和剂
 
 ## 简述
 

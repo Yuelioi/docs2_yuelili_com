@@ -1,9 +1,4 @@
----
-title: CC Wide Time - CC放慢
-order: 3
-category:
-  - AE
----
+# CC Wide Time - CC放慢
 
 ## 简述
 

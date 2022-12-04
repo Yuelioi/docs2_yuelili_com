@@ -1,9 +1,4 @@
----
-title: Angel Control - 角度控制
-order: 3
-category:
-  - AE
----
+# Angel Control - 角度控制
 
 ## 简述
 

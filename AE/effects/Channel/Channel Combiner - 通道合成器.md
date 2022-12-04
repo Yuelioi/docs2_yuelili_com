@@ -1,9 +1,4 @@
----
-title: Channel Combiner - 通道合成器
-order: 7
-category:
-  - AE
----
+# Channel Combiner - 通道合成器
 
 ## 简述
 

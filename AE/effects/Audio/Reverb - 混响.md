@@ -1,9 +1,4 @@
----
-title: Reverb - 混响
-order: 9
-category:
-  - AE
----
+# Reverb - 混响
 
 ## 简述
 

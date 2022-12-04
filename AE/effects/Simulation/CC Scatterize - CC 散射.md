@@ -1,9 +1,4 @@
----
-title: CC Scatterize - CC 散射
-order: 13
-category:
-  - AE
----
+# CC Scatterize - CC 散射
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: 4 color Gradient - 四色渐变
-order: 2
-category:
-  - AE
----
+# 4 color Gradient - 四色渐变
 
 ## 简述
 

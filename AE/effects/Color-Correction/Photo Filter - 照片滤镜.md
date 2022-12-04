@@ -1,9 +1,4 @@
----
-title: Photo Filter - 照片滤镜
-order: 29
-category:
-  - AE
----
+# Photo Filter - 照片滤镜
 
 ## 简述
 

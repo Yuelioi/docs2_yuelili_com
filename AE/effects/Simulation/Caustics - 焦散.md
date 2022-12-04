@@ -1,9 +1,4 @@
----
-title: Caustics - 焦散
-order: 3
-category:
-  - AE
----
+# Caustics - 焦散
 
 ## 简述
 

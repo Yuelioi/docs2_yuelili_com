@@ -1,9 +1,4 @@
----
-title: Eyedropper Fill - 吸管填充
-order: 16
-category:
-  - AE
----
+# Eyedropper Fill - 吸管填充
 
 ## 简述
 

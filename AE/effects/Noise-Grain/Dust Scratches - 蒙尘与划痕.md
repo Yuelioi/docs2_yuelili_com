@@ -1,9 +1,4 @@
----
-title: Dust Scratches - 蒙尘与划痕
-order: 3
-category:
-  - AE
----
+# Dust Scratches - 蒙尘与划痕
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Bulge - 凸出
-order: 3
-category:
-  - AE
----
+# Bulge - 凸出
 
 ## 简述
 

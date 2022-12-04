@@ -1,9 +1,4 @@
----
-title: EXtractoR - 提取器R
-order: 6
-category:
-  - AE
----
+# EXtractoR - 提取器R
 
 ## 简述
 

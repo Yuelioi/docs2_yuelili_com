@@ -1,9 +1,4 @@
----
-title: CC Threshold Rgb - CC阈值RGB
-order: 13
-category:
-  - AE
----
+# CC Threshold Rgb - CC阈值RGB
 
 ## 简述
 

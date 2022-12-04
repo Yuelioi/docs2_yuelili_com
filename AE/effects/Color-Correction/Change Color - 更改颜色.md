@@ -1,9 +1,4 @@
----
-title: Change Color - 更改颜色
-order: 12
-category:
-  - AE
----
+# Change Color - 更改颜色
 
 ## 简述
 

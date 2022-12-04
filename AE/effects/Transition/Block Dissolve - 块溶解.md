@@ -1,9 +1,4 @@
----
-title: Block Dissolve - 块溶解
-order: 2
-category:
-  - AE
----
+# Block Dissolve - 块溶解
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: CC Drizzle - CC 细雨滴
-order: 6
-category:
-  - AE
----
+# CC Drizzle - CC 细雨滴
 
 ## 简述
 

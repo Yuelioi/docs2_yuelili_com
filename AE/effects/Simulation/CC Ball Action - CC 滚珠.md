@@ -1,9 +1,4 @@
----
-title: CC Ball Action - CC 滚珠
-order: 4
-category:
-  - AE
----
+# CC Ball Action - CC 滚珠
 
 ## 简述
 

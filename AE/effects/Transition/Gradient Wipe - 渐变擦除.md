@@ -1,9 +1,4 @@
----
-title: Gradient Wipe - 渐变擦除
-order: 14
-category:
-  - AE
----
+# Gradient Wipe - 渐变擦除
 
 ## 简述
 

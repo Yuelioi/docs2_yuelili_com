@@ -1,9 +1,4 @@
----
-title: CC Threshold - CC阈值
-order: 12
-category:
-  - AE
----
+# CC Threshold - CC阈值
 
 ## 简述
 

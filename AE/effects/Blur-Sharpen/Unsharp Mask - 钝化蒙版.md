@@ -1,9 +1,4 @@
----
-title: Unsharp Mask - 钝化蒙版
-order: 17
-category:
-  - AE
----
+# Unsharp Mask - 钝化蒙版
 
 ## 简述
 

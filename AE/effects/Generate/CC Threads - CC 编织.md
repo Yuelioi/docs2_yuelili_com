@@ -1,9 +1,4 @@
----
-title: CC Threads - CC 编织
-order: 11
-category:
-  - AE
----
+# CC Threads - CC 编织
 
 ## 简述
 

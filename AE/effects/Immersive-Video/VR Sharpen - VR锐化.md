@@ -1,9 +1,4 @@
----
-title: VR Sharpen - VR锐化
-order: 12
-category:
-  - AE
----
+# VR Sharpen - VR锐化
 
 ## 简述
 

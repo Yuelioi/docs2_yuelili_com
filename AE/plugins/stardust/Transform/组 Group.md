@@ -1,9 +1,4 @@
----
-title: 组 Group
-order: 5
-category:
-  - AE
----
+# 组 Group
 
 ## 组
 

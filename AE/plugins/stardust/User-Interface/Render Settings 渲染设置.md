@@ -1,9 +1,4 @@
----
-title: Render Settings 渲染设置
-order: 6
-category:
-  - AE
----
+# Render Settings 渲染设置
 
 ## Quality Settings 质量设置
 

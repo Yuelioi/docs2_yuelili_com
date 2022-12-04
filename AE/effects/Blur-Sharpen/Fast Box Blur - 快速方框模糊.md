@@ -1,9 +1,4 @@
----
-title: Fast Box Blur - 快速方框模糊
-order: 12
-category:
-  - AE
----
+# Fast Box Blur - 快速方框模糊
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Spherize - 球面化
-order: 32
-category:
-  - AE
----
+# Spherize - 球面化
 
 ## 简述
 

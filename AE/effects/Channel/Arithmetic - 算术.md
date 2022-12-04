@@ -1,9 +1,4 @@
----
-title: Arithmetic - 算术
-order: 2
-category:
-  - AE
----
+# Arithmetic - 算术
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Layer Control - 图层控制
-order: 7
-category:
-  - AE
----
+# Layer Control - 图层控制
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Checkerboard - 棋盘
-order: 13
-category:
-  - AE
----
+# Checkerboard - 棋盘
 
 ## 简述
 

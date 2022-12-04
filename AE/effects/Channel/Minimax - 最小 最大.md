@@ -1,9 +1,4 @@
----
-title: Minimax - 最小 最大
-order: 12
-category:
-  - AE
----
+# Minimax - 最小 最大
 
 ## 简述
 

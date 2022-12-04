@@ -1,9 +1,4 @@
----
-title: Scribble - 涂写
-order: 24
-category:
-  - AE
----
+# Scribble - 涂写
 
 ## 简述
 

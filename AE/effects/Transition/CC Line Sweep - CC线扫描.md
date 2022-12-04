@@ -1,9 +1,4 @@
----
-title: CC Line Sweep - CC线扫描
-order: 9
-category:
-  - AE
----
+# CC Line Sweep - CC线扫描
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Noise Hls Auto - 杂色 HLS 自动
-order: 11
-category:
-  - AE
----
+# Noise Hls Auto - 杂色 HLS 自动
 
 ## 简述
 

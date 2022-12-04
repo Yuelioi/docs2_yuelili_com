@@ -1,9 +1,4 @@
----
-title: Advanced Spill Suppressor - 高级溢出抑制器
-order: 2
-category:
-  - AE
----
+# Advanced Spill Suppressor - 高级溢出抑制器
 
 ## 简述
 

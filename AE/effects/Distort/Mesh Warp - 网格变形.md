@@ -1,9 +1,4 @@
----
-title: Mesh Warp - 网格变形
-order: 23
-category:
-  - AE
----
+# Mesh Warp - 网格变形
 
 ## 简述
 

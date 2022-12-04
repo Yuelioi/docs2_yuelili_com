@@ -1,9 +1,4 @@
----
-title: Radial Wipe - 径向擦除
-order: 17
-category:
-  - AE
----
+# Radial Wipe - 径向擦除
 
 ## 简述
 

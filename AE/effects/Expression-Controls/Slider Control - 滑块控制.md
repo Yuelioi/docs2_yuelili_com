@@ -1,9 +1,4 @@
----
-title: Slider Control - 滑块控制
-order: 9
-category:
-  - AE
----
+# Slider Control - 滑块控制
 
 ## 简述
 

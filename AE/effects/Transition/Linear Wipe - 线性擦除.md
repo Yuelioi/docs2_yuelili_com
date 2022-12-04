@@ -1,9 +1,4 @@
----
-title: Linear Wipe - 线性擦除
-order: 16
-category:
-  - AE
----
+# Linear Wipe - 线性擦除
 
 ## 简述
 

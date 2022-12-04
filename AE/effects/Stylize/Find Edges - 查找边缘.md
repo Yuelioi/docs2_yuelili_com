@@ -1,9 +1,4 @@
----
-title: Find Edges - 查找边缘
-order: 17
-category:
-  - AE
----
+# Find Edges - 查找边缘
 
 ## 简述
 

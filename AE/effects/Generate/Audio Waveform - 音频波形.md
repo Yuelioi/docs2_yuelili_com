@@ -1,9 +1,4 @@
----
-title: Audio Waveform - 音频波形
-order: 5
-category:
-  - AE
----
+# Audio Waveform - 音频波形
 
 ## 简述
 

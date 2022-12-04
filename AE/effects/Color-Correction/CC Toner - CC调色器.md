@@ -1,9 +1,4 @@
----
-title: CC Toner - CC调色器
-order: 11
-category:
-  - AE
----
+# CC Toner - CC调色器
 
 ## 简述
 

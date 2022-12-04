@@ -1,9 +1,4 @@
----
-title: Card Dance - 卡片动画
-order: 2
-category:
-  - AE
----
+# Card Dance - 卡片动画
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Shadow Highlight - 阴影 高光
-order: 32
-category:
-  - AE
----
+# Shadow Highlight - 阴影 高光
 
 ## 简述
 

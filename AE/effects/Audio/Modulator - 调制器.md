@@ -1,9 +1,4 @@
----
-title: Modulator - 调制器
-order: 7
-category:
-  - AE
----
+# Modulator - 调制器
 
 ## 简述
 

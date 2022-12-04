@@ -1,9 +1,4 @@
----
-title: Remove Color Matting - 移除颜色遮罩
-order: 6
-category:
-  - AE
----
+# Remove Color Matting - 移除颜色遮罩
 
 ## 简述
 

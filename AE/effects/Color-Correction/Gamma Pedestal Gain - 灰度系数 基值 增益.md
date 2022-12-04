@@ -1,9 +1,4 @@
----
-title: Gamma Pedestal Gain - 灰度系数 基值 增益
-order: 23
-category:
-  - AE
----
+# Gamma Pedestal Gain - 灰度系数 基值 增益
 
 ## 简述
 

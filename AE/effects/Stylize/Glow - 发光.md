@@ -1,9 +1,4 @@
----
-title: Glow - 发光
-order: 18
-category:
-  - AE
----
+# Glow - 发光
 
 ## 简述
 

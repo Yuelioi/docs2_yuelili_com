@@ -1,9 +1,4 @@
----
-title: Matte Choker - 遮罩阻塞工具
-order: 2
-category:
-  - AE
----
+# Matte Choker - 遮罩阻塞工具
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Posterize - 色调分离
-order: 21
-category:
-  - AE
----
+# Posterize - 色调分离
 
 ## 简述
 

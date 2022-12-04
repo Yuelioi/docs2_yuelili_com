@@ -1,9 +1,4 @@
----
-title: High Low Pass - 高通 低通
-order: 6
-category:
-  - AE
----
+# High Low Pass - 高通 低通
 
 ## 简述
 

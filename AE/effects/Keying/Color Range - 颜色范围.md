@@ -1,9 +1,4 @@
----
-title: Color Range - 颜色范围
-order: 5
-category:
-  - AE
----
+# Color Range - 颜色范围
 
 ## 简述
 

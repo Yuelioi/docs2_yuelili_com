@@ -1,9 +1,4 @@
----
-title: Turbulent Noise - 湍流杂色
-order: 13
-category:
-  - AE
----
+# Turbulent Noise - 湍流杂色
 
 ## 简述
 

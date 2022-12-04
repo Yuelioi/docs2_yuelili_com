@@ -1,9 +1,4 @@
----
-title: Emboss - 浮雕
-order: 16
-category:
-  - AE
----
+# Emboss - 浮雕
 
 ## 简述
 

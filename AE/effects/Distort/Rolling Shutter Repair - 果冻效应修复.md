@@ -1,9 +1,4 @@
----
-title: Rolling Shutter Repair - 果冻效应修复
-order: 30
-category:
-  - AE
----
+# Rolling Shutter Repair - 果冻效应修复
 
 ## 简述
 

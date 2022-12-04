@@ -1,9 +1,4 @@
----
-title: Bilateral Blur - 双向模糊
-order: 2
-category:
-  - AE
----
+# Bilateral Blur - 双向模糊
 
 ## 简述
 

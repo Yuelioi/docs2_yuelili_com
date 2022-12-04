@@ -1,9 +1,4 @@
----
-title: Bevel Edges - 边缘斜面
-order: 5
-category:
-  - AE
----
+# Bevel Edges - 边缘斜面
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: VR DeNoise - VR降噪
-order: 6
-category:
-  - AE
----
+# VR DeNoise - VR降噪
 
 ## 简述
 

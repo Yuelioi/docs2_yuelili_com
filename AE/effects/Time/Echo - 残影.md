@@ -1,9 +1,4 @@
----
-title: Echo - 残影
-order: 4
-category:
-  - AE
----
+# Echo - 残影
 
 ## 简述
 

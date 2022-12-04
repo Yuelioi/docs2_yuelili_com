@@ -1,9 +1,4 @@
----
-title: Optics Compensation - 光学补偿
-order: 26
-category:
-  - AE
----
+# Optics Compensation - 光学补偿
 
 ## 简述
 

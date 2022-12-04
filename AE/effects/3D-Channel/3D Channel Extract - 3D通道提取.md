@@ -1,9 +1,4 @@
----
-title: 3D Channel Extract - 3D通道提取
-order: 2
-category:
-  - AE
----
+# 3D Channel Extract - 3D通道提取
 
 ## 简述
 

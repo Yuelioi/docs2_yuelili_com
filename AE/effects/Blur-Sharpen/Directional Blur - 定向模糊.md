@@ -1,9 +1,4 @@
----
-title: Directional Blur - 定向模糊
-order: 11
-category:
-  - AE
----
+# Directional Blur - 定向模糊
 
 ## 简述
 

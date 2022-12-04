@@ -1,9 +1,4 @@
----
-title: Color Profile Converter - 颜色配置文件转换器
-order: 5
-category:
-  - AE
----
+# Color Profile Converter - 颜色配置文件转换器
 
 ## 简述
 

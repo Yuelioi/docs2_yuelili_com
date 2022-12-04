@@ -1,9 +1,4 @@
----
-title: Wave World - 波形环境
-order: 19
-category:
-  - AE
----
+# Wave World - 波形环境
 
 ## 简述
 

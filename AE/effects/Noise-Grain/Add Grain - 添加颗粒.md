@@ -1,9 +1,4 @@
----
-title: Add Grain - 添加颗粒
-order: 2
-category:
-  - AE
----
+# Add Grain - 添加颗粒
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Audio Spectrum - 音频频谱
-order: 4
-category:
-  - AE
----
+# Audio Spectrum - 音频频谱
 
 ## 简述
 

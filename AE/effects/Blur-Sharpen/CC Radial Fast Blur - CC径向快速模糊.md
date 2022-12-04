@@ -1,9 +1,4 @@
----
-title: CC Radial Fast Blur - CC径向快速模糊
-order: 7
-category:
-  - AE
----
+# CC Radial Fast Blur - CC径向快速模糊
 
 ## 简述
 

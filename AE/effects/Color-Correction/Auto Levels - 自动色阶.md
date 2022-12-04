@@ -1,9 +1,4 @@
----
-title: Auto Levels - 自动色阶
-order: 4
-category:
-  - AE
----
+# Auto Levels - 自动色阶
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Bezier Warp - 贝塞尔曲线变形
-order: 2
-category:
-  - AE
----
+# Bezier Warp - 贝塞尔曲线变形
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Fractal - 分形
-order: 18
-category:
-  - AE
----
+# Fractal - 分形
 
 ## 简述
 

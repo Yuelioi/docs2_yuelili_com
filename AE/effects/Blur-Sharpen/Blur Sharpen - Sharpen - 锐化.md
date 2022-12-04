@@ -1,9 +1,4 @@
----
-title: Blur Sharpen - Sharpen - 锐化
-order: 15
-category:
-  - AE
----
+# Blur Sharpen - Sharpen - 锐化
 
 ## 简述
 

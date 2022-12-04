@@ -1,9 +1,4 @@
----
-title: Inner Outer Key - 内部 外部键
-order: 8
-category:
-  - AE
----
+# Inner Outer Key - 内部 外部键
 
 ## 简述
 

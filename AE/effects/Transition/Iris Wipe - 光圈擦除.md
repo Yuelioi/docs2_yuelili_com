@@ -1,9 +1,4 @@
----
-title: Iris Wipe - 光圈擦除
-order: 15
-category:
-  - AE
----
+# Iris Wipe - 光圈擦除
 
 ## 简述
 

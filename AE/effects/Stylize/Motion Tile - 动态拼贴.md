@@ -1,9 +1,4 @@
----
-title: Motion Tile - 动态拼贴
-order: 20
-category:
-  - AE
----
+# Motion Tile - 动态拼贴
 
 ## 简述
 

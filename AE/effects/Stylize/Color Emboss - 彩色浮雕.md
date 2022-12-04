@@ -1,9 +1,4 @@
----
-title: Color Emboss - 彩色浮雕
-order: 15
-category:
-  - AE
----
+# Color Emboss - 彩色浮雕
 
 ## 简述
 

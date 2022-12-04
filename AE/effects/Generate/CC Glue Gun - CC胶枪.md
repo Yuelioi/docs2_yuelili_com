@@ -1,9 +1,4 @@
----
-title: CC Glue Gun - CC胶枪
-order: 7
-category:
-  - AE
----
+# CC Glue Gun - CC胶枪
 
 ## 简述
 

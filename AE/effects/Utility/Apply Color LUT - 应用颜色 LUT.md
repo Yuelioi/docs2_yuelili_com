@@ -1,9 +1,4 @@
----
-title: Apply Color LUT - 应用颜色 LUT
-order: 2
-category:
-  - AE
----
+# Apply Color LUT - 应用颜色 LUT
 
 ## 简述
 

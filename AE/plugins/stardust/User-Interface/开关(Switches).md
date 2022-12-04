@@ -1,9 +1,4 @@
----
-title: 开关(Switches)
-order: 4
-category:
-  - AE
----
+# 开关(Switches)
 
 ![](https://mir.yuelili.com/wp-content/uploads/user/AE/plugins/particular/stardust-006.bmp)
 

@@ -1,9 +1,4 @@
----
-title: CC Sphere - CC 球体
-order: 8
-category:
-  - AE
----
+# CC Sphere - CC 球体
 
 ## 简述
 

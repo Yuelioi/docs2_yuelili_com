@@ -1,9 +1,4 @@
----
-title: CC Plastic - CC塑料
-order: 10
-category:
-  - AE
----
+# CC Plastic - CC塑料
 
 ## 简述
 

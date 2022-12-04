@@ -1,9 +1,4 @@
----
-title: Fractal Noise - 分形杂色
-order: 4
-category:
-  - AE
----
+# Fractal Noise - 分形杂色
 
 ## 简述
 

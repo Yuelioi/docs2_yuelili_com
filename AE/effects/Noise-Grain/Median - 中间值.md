@@ -1,9 +1,4 @@
----
-title: Median - 中间值
-order: 6
-category:
-  - AE
----
+# Median - 中间值
 
 ## 简述
 

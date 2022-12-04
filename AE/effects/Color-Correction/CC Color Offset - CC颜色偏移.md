@@ -1,9 +1,4 @@
----
-title: CC Color Offset - CC颜色偏移
-order: 9
-category:
-  - AE
----
+# CC Color Offset - CC颜色偏移
 
 ## 简述
 

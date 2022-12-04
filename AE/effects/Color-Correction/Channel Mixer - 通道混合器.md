@@ -1,9 +1,4 @@
----
-title: Channel Mixer - 通道混合器
-order: 14
-category:
-  - AE
----
+# Channel Mixer - 通道混合器
 
 ## 简述
 

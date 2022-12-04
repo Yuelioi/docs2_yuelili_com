@@ -1,9 +1,4 @@
----
-title: Strobe Light - 闪光灯
-order: 24
-category:
-  - AE
----
+# Strobe Light - 闪光灯
 
 ## 简述
 

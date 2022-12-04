@@ -1,9 +1,4 @@
----
-title: Color Key - 颜色键
-order: 4
-category:
-  - AE
----
+# Color Key - 颜色键
 
 ## 简述
 

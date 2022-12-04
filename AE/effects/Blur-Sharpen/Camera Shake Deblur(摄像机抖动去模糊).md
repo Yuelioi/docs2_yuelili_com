@@ -1,9 +1,4 @@
----
-title: Camera Shake Deblur(摄像机抖动去模糊)
-order: 4
-category:
-  - AE
----
+# Camera Shake Deblur(摄像机抖动去模糊)
 
 ## 简述
 

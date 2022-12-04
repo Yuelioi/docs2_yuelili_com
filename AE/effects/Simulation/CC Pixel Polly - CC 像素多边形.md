@@ -1,9 +1,4 @@
----
-title: CC Pixel Polly - CC 像素多边形
-order: 11
-category:
-  - AE
----
+# CC Pixel Polly - CC 像素多边形
 
 ## 简述
 

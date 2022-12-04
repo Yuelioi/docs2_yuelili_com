@@ -1,9 +1,4 @@
----
-title: Point Control - 点控制
-order: 8
-category:
-  - AE
----
+# Point Control - 点控制
 
 ## 简述
 

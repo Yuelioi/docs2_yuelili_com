@@ -1,9 +1,4 @@
----
-title: CC Simple Wire Removal - CC简单移除
-order: 3
-category:
-  - AE
----
+# CC Simple Wire Removal - CC简单移除
 
 ## 简述
 

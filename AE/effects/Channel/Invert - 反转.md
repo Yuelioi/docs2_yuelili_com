@@ -1,9 +1,4 @@
----
-title: Invert - 反转
-order: 14
-category:
-  - AE
----
+# Invert - 反转
 
 ## 简述
 

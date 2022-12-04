@@ -1,9 +1,4 @@
----
-title: 模型 Mdel
-order: 2
-category:
-  - AE
----
+# 模型 Mdel
 
 ## Model Source 模型源
 

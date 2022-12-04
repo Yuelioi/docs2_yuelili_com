@@ -1,9 +1,4 @@
----
-title: Warp Stabilizer VFX - 变形稳定器 VFX【无教程】
-order: 37
-category:
-  - AE
----
+# Warp Stabilizer VFX - 变形稳定器 VFX【无教程】
 
 ## 简述
 

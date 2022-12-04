@@ -1,9 +1,4 @@
----
-title: Advanced Lightning - 高级闪电
-order: 3
-category:
-  - AE
----
+# Advanced Lightning - 高级闪电
 
 ## 简述
 

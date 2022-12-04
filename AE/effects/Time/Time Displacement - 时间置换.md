@@ -1,9 +1,4 @@
----
-title: Time Displacement - 时间置换
-order: 8
-category:
-  - AE
----
+# Time Displacement - 时间置换
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Stroke - 描边
-order: 25
-category:
-  - AE
----
+# Stroke - 描边
 
 ## 简述
 

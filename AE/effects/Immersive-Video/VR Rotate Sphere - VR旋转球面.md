@@ -1,9 +1,4 @@
----
-title: VR Rotate Sphere - VR旋转球面
-order: 11
-category:
-  - AE
----
+# VR Rotate Sphere - VR旋转球面
 
 ## 简述
 

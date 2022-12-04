@@ -1,9 +1,4 @@
----
-title: Luma Key - 亮度键
-order: 7
-category:
-  - AE
----
+# Luma Key - 亮度键
 
 ## 简述
 

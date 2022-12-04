@@ -1,9 +1,4 @@
----
-title: Flange Chorus - 变调与合声
-order: 5
-category:
-  - AE
----
+# Flange Chorus - 变调与合声
 
 ## 简述
 

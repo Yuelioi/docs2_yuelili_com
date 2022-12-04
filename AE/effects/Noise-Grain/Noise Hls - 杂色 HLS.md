@@ -1,9 +1,4 @@
----
-title: Noise Hls - 杂色 HLS
-order: 10
-category:
-  - AE
----
+# Noise Hls - 杂色 HLS
 
 ## 简述
 

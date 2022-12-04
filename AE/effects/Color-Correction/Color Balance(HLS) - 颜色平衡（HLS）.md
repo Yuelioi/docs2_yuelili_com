@@ -1,9 +1,4 @@
----
-title: Color Balance(HLS) - 颜色平衡（HLS）
-order: 16
-category:
-  - AE
----
+# Color Balance(HLS) - 颜色平衡（HLS）
 
 ## 简述
 

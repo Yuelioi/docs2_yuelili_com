@@ -1,9 +1,4 @@
----
-title: Selective Color - 可选颜色
-order: 31
-category:
-  - AE
----
+# Selective Color - 可选颜色
 
 ## 简述
 

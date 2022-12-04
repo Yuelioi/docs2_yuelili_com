@@ -1,9 +1,4 @@
----
-title: Tone - 音调
-order: 11
-category:
-  - AE
----
+# Tone - 音调
 
 ## 简述
 

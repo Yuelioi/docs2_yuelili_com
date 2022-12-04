@@ -1,9 +1,4 @@
----
-title: Cell Pattern - 单元格图案
-order: 12
-category:
-  - AE
----
+# Cell Pattern - 单元格图案
 
 ## 简述
 

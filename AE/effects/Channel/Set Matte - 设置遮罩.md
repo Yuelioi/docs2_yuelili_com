@@ -1,9 +1,4 @@
----
-title: Set Matte - 设置遮罩
-order: 10
-category:
-  - AE
----
+# Set Matte - 设置遮罩
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Curves - 曲线
-order: 20
-category:
-  - AE
----
+# Curves - 曲线
 
 ## 简述
 

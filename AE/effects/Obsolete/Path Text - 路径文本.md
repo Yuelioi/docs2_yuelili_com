@@ -1,9 +1,4 @@
----
-title: Path Text - 路径文本
-order: 8
-category:
-  - AE
----
+# Path Text - 路径文本
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Linear Color Key - 线性颜色键
-order: 11
-category:
-  - AE
----
+# Linear Color Key - 线性颜色键
 
 ## 简述
 

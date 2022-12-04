@@ -1,9 +1,4 @@
----
-title: Checkbox Control - 复选框控制
-order: 4
-category:
-  - AE
----
+# Checkbox Control - 复选框控制
 
 ## 简述
 

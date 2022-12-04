@@ -1,9 +1,4 @@
----
-title: VR Blur - VR模糊
-order: 2
-category:
-  - AE
----
+# VR Blur - VR模糊
 
 ## 简述
 

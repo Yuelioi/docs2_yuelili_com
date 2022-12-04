@@ -1,9 +1,4 @@
----
-title: Shatter - 碎片
-order: 18
-category:
-  - AE
----
+# Shatter - 碎片
 
 ## 简述
 

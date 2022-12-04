@@ -1,9 +1,4 @@
----
-title: Broadcast Colors - 广播颜色
-order: 7
-category:
-  - AE
----
+# Broadcast Colors - 广播颜色
 
 ## 简述
 

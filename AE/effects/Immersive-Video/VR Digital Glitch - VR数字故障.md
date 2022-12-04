@@ -1,9 +1,4 @@
----
-title: VR Digital Glitch - VR数字故障
-order: 7
-category:
-  - AE
----
+# VR Digital Glitch - VR数字故障
 
 ## 简述
 

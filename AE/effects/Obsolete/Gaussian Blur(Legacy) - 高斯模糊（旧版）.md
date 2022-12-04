@@ -1,9 +1,4 @@
----
-title: Gaussian Blur(Legacy) - 高斯模糊（旧版）
-order: 5
-category:
-  - AE
----
+# Gaussian Blur(Legacy) - 高斯模糊（旧版）
 
 ## 简述
 

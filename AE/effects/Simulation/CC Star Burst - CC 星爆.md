@@ -1,9 +1,4 @@
----
-title: CC Star Burst - CC 星爆
-order: 15
-category:
-  - AE
----
+# CC Star Burst - CC 星爆
 
 ## 简述
 

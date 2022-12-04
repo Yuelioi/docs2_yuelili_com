@@ -1,9 +1,4 @@
----
-title: CC Bend It - CC弯曲
-order: 4
-category:
-  - AE
----
+# CC Bend It - CC弯曲
 
 ## 简述
 

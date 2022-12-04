@@ -1,9 +1,4 @@
----
-title: CC Image Wipe - CC图像擦除
-order: 6
-category:
-  - AE
----
+# CC Image Wipe - CC图像擦除
 
 ## 简述
 

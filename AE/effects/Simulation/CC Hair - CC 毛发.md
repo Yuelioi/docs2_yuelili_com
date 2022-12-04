@@ -1,9 +1,4 @@
----
-title: CC Hair - CC 毛发
-order: 7
-category:
-  - AE
----
+# CC Hair - CC 毛发
 
 ## 简述
 

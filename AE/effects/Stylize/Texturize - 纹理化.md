@@ -1,9 +1,4 @@
----
-title: Texturize - 纹理化
-order: 25
-category:
-  - AE
----
+# Texturize - 纹理化
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: VR Color Gradients - VR颜色渐变
-order: 4
-category:
-  - AE
----
+# VR Color Gradients - VR颜色渐变
 
 ## 简述
 

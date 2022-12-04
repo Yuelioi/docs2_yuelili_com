@@ -1,9 +1,4 @@
----
-title: Delay - 延迟
-order: 4
-category:
-  - AE
----
+# Delay - 延迟
 
 ## 简述
 

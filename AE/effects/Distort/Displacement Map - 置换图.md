@@ -1,9 +1,4 @@
----
-title: Displacement Map - 置换图
-order: 20
-category:
-  - AE
----
+# Displacement Map - 置换图
 
 ## 简述
 

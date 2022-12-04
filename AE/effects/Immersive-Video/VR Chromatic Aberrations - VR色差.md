@@ -1,9 +1,4 @@
----
-title: VR Chromatic Aberrations - VR色差
-order: 3
-category:
-  - AE
----
+# VR Chromatic Aberrations - VR色差
 
 ## 简述
 

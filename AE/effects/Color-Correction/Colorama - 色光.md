@@ -1,9 +1,4 @@
----
-title: Colorama - 色光
-order: 19
-category:
-  - AE
----
+# Colorama - 色光
 
 ## 简述
 

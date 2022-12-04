@@ -1,9 +1,4 @@
----
-title: 复制器 Replica
-order: 2
-category:
-  - AE
----
+# 复制器 Replica
 
 ## Replica 复制
 

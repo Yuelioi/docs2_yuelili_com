@@ -1,9 +1,4 @@
----
-title: Brush Storkes - 画笔描边
-order: 2
-category:
-  - AE
----
+# Brush Storkes - 画笔描边
 
 ## 简述
 

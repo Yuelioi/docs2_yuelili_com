@@ -1,9 +1,4 @@
----
-title: CC Page Turn - CC翻页
-order: 10
-category:
-  - AE
----
+# CC Page Turn - CC翻页
 
 ## 简述
 

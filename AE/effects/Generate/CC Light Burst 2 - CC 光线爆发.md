@@ -1,9 +1,4 @@
----
-title: CC Light Burst 2 - CC 光线爆发
-order: 8
-category:
-  - AE
----
+# CC Light Burst 2 - CC 光线爆发
 
 ## 简述
 

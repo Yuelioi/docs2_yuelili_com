@@ -1,9 +1,4 @@
----
-title: CC Mr.Smoothie - CC像素溶解
-order: 9
-category:
-  - AE
----
+# CC Mr.Smoothie - CC像素溶解
 
 ## 简述
 

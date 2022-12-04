@@ -1,9 +1,4 @@
----
-title: CC Vignette - CC暗角
-order: 14
-category:
-  - AE
----
+# CC Vignette - CC暗角
 
 ## 简述
 

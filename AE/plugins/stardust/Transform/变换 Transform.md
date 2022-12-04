@@ -1,9 +1,4 @@
----
-title: 变换 Transform
-order: 3
-category:
-  - AE
----
+# 变换 Transform
 
 ## 介绍
 

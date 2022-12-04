@@ -1,9 +1,4 @@
----
-title: Particle Playground - 粒子运动场
-order: 17
-category:
-  - AE
----
+# Particle Playground - 粒子运动场
 
 ## 简述
 

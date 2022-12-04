@@ -1,9 +1,4 @@
----
-title: CC Blobbylize - CC斑点化
-order: 6
-category:
-  - AE
----
+# CC Blobbylize - CC斑点化
 
 ## 简述
 

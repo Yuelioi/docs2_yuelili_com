@@ -1,9 +1,4 @@
----
-title: Spill Suppressor - 溢出抑制
-order: 10
-category:
-  - AE
----
+# Spill Suppressor - 溢出抑制
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Vibrance - 自然饱和度
-order: 35
-category:
-  - AE
----
+# Vibrance - 自然饱和度
 
 ## 简述
 

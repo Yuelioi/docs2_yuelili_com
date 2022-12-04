@@ -1,9 +1,4 @@
----
-title: CC Rainfall - CC 下雨
-order: 12
-category:
-  - AE
----
+# CC Rainfall - CC 下雨
 
 ## 简述
 

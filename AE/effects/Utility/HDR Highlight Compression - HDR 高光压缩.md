@@ -1,9 +1,4 @@
----
-title: HDR Highlight Compression - HDR 高光压缩
-order: 8
-category:
-  - AE
----
+# HDR Highlight Compression - HDR 高光压缩
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Ripple - 波纹
-order: 29
-category:
-  - AE
----
+# Ripple - 波纹
 
 ## 简述
 

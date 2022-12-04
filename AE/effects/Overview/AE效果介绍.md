@@ -1,9 +1,4 @@
----
-title: AE效果介绍
-order: 2
-category:
-  - AE
----
+# AE效果介绍
 
 [Adobe 官方文档](https://helpx.adobe.com/cn/after-effects/using/effects-animation-presets-overview.html)
 

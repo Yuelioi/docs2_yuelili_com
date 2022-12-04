@@ -1,9 +1,4 @@
----
-title: CC Scale Wipe - CC缩放擦除
-order: 11
-category:
-  - AE
----
+# CC Scale Wipe - CC缩放擦除
 
 ## 简述
 

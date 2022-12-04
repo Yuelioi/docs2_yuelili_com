@@ -1,9 +1,4 @@
----
-title: Magnify - 放大
-order: 22
-category:
-  - AE
----
+# Magnify - 放大
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Compound Blur - 复合模糊
-order: 10
-category:
-  - AE
----
+# Compound Blur - 复合模糊
 
 ## 简述
 

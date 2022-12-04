@@ -1,9 +1,4 @@
----
-title: Warp - 变形
-order: 36
-category:
-  - AE
----
+# Warp - 变形
 
 ## 简述
 

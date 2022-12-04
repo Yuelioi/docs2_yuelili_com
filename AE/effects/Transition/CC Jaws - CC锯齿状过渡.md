@@ -1,9 +1,4 @@
----
-title: CC Jaws - CC锯齿状过渡
-order: 7
-category:
-  - AE
----
+# CC Jaws - CC锯齿状过渡
 
 ## 简述
 

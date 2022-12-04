@@ -1,9 +1,4 @@
----
-title: Difference Matte - 差值遮罩
-order: 6
-category:
-  - AE
----
+# Difference Matte - 差值遮罩
 
 ## 简述
 

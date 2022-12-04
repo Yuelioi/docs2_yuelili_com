@@ -1,9 +1,4 @@
----
-title: 阴影 Shadow
-order: 2
-category:
-  - AE
----
+# 阴影 Shadow
 
 ### Shading 阴影
 

@@ -1,9 +1,4 @@
----
-title: Stero Mixer - 立体声混合器
-order: 10
-category:
-  - AE
----
+# Stero Mixer - 立体声混合器
 
 ## 简述
 

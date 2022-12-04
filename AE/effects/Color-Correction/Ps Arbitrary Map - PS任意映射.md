@@ -1,9 +1,4 @@
----
-title: Ps Arbitrary Map - PS任意映射
-order: 30
-category:
-  - AE
----
+# Ps Arbitrary Map - PS任意映射
 
 ## 简述
 

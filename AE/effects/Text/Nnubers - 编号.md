@@ -1,9 +1,4 @@
----
-title: Nnubers - 编号
-order: 2
-category:
-  - AE
----
+# Nnubers - 编号
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Cryptomatte
-order: 3
-category:
-  - AE
----
+# Cryptomatte
 
 ## 简述
 

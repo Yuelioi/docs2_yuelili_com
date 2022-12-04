@@ -1,9 +1,4 @@
----
-title: Paint Bucket - 油漆桶
-order: 22
-category:
-  - AE
----
+# Paint Bucket - 油漆桶
 
 ## 简述
 

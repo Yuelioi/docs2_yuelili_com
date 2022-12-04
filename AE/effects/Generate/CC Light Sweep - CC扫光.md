@@ -1,9 +1,4 @@
----
-title: CC Light Sweep - CC扫光
-order: 10
-category:
-  - AE
----
+# CC Light Sweep - CC扫光
 
 ## 简述
 

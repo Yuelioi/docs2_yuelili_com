@@ -1,9 +1,4 @@
----
-title: Wave Warp - 波形变形
-order: 38
-category:
-  - AE
----
+# Wave Warp - 波形变形
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Radial Shadow - 径向阴影
-order: 11
-category:
-  - AE
----
+# Radial Shadow - 径向阴影
 
 ## 简述
 

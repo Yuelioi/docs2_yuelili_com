@@ -1,9 +1,4 @@
----
-title: Twirl - 旋转扭曲
-order: 35
-category:
-  - AE
----
+# Twirl - 旋转扭曲
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Grow Bound - 范围扩散
-order: 6
-category:
-  - AE
----
+# Grow Bound - 范围扩散
 
 ## 简述
 

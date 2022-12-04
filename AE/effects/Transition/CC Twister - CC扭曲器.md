@@ -1,9 +1,4 @@
----
-title: CC Twister - CC扭曲器
-order: 12
-category:
-  - AE
----
+# CC Twister - CC扭曲器
 
 ## 简述
 

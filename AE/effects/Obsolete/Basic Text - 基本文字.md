@@ -1,9 +1,4 @@
----
-title: Basic Text - 基本文字
-order: 3
-category:
-  - AE
----
+# Basic Text - 基本文字
 
 ## 简述
 

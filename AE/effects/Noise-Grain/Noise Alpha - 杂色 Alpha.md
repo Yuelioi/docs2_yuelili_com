@@ -1,9 +1,4 @@
----
-title: Noise Alpha - 杂色 Alpha
-order: 9
-category:
-  - AE
----
+# Noise Alpha - 杂色 Alpha
 
 ## 简述
 

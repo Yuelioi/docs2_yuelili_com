@@ -1,9 +1,4 @@
----
-title: Exposure - 曝光度
-order: 22
-category:
-  - AE
----
+# Exposure - 曝光度
 
 ## 简述
 

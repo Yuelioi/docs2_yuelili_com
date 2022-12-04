@@ -1,9 +1,4 @@
----
-title: CC Particle World - CC 粒子世界
-order: 10
-category:
-  - AE
----
+# CC Particle World - CC 粒子世界
 
 ## 简述
 

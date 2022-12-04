@@ -1,9 +1,4 @@
----
-title: Gaussian Blur - 高斯模糊
-order: 13
-category:
-  - AE
----
+# Gaussian Blur - 高斯模糊
 
 ## 简述
 

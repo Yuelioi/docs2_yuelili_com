@@ -1,9 +1,4 @@
----
-title: CC Smear - CC涂抹
-order: 14
-category:
-  - AE
----
+# CC Smear - CC涂抹
 
 ## 简述
 

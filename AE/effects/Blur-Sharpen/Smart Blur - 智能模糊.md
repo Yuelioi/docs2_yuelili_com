@@ -1,9 +1,4 @@
----
-title: Smart Blur - 智能模糊
-order: 16
-category:
-  - AE
----
+# Smart Blur - 智能模糊
 
 ## 简述
 

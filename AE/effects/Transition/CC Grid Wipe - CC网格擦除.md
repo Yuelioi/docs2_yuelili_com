@@ -1,9 +1,4 @@
----
-title: CC Grid Wipe - CC网格擦除
-order: 5
-category:
-  - AE
----
+# CC Grid Wipe - CC网格擦除
 
 ## 简述
 

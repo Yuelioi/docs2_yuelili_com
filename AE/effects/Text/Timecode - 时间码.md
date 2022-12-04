@@ -1,9 +1,4 @@
----
-title: Timecode - 时间码
-order: 3
-category:
-  - AE
----
+# Timecode - 时间码
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Video Limiter - 视频限幅器
-order: 36
-category:
-  - AE
----
+# Video Limiter - 视频限幅器
 
 ## 简述
 

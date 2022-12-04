@@ -1,9 +1,4 @@
----
-title: Card Wipe - 卡片擦除
-order: 3
-category:
-  - AE
----
+# Card Wipe - 卡片擦除
 
 ## 简述
 

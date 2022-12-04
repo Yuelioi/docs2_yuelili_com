@@ -1,9 +1,4 @@
----
-title: Auto Contrast - 自动对比度
-order: 3
-category:
-  - AE
----
+# Auto Contrast - 自动对比度
 
 ## 简述
 

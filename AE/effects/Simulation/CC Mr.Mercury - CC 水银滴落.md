@@ -1,9 +1,4 @@
----
-title: CC Mr.Mercury - CC 水银滴落
-order: 8
-category:
-  - AE
----
+# CC Mr.Mercury - CC 水银滴落
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: CC Power Pin - CC强力定位
-order: 11
-category:
-  - AE
----
+# CC Power Pin - CC强力定位
 
 ## 简述
 

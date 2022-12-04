@@ -1,9 +1,4 @@
----
-title: Transform - 变换
-order: 33
-category:
-  - AE
----
+# Transform - 变换
 
 ## 简述
 

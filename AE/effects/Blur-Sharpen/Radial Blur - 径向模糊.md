@@ -1,9 +1,4 @@
----
-title: Radial Blur - 径向模糊
-order: 14
-category:
-  - AE
----
+# Radial Blur - 径向模糊
 
 ## 简述
 

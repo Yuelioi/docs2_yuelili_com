@@ -1,9 +1,4 @@
----
-title: Equalize - 色调均化
-order: 21
-category:
-  - AE
----
+# Equalize - 色调均化
 
 ## 简述
 

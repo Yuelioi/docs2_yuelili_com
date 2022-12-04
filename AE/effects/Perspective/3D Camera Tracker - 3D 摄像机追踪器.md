@@ -1,9 +1,4 @@
----
-title: 3D Camera Tracker - 3D 摄像机追踪器
-order: 2
-category:
-  - AE
----
+# 3D Camera Tracker - 3D 摄像机追踪器
 
 ## 简述
 

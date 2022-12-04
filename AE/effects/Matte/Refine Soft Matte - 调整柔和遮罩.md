@@ -1,9 +1,4 @@
----
-title: Refine Soft Matte - 调整柔和遮罩
-order: 4
-category:
-  - AE
----
+# Refine Soft Matte - 调整柔和遮罩
 
 ## 简述
 

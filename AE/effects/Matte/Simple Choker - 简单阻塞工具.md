@@ -1,9 +1,4 @@
----
-title: Simple Choker - 简单阻塞工具
-order: 5
-category:
-  - AE
----
+# Simple Choker - 简单阻塞工具
 
 ## 简述
 

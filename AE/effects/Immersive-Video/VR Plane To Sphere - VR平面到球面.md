@@ -1,9 +1,4 @@
----
-title: VR Plane To Sphere - VR平面到球面
-order: 10
-category:
-  - AE
----
+# VR Plane To Sphere - VR平面到球面
 
 ## 简述
 

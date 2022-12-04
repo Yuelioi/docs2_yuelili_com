@@ -1,9 +1,4 @@
----
-title: Color Balance - 颜色平衡
-order: 15
-category:
-  - AE
----
+# Color Balance - 颜色平衡
 
 ## 简述
 

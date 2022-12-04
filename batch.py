@@ -24,7 +24,7 @@ def get_file_name(root_dir):
 
             with open(file_path, "r+", encoding='utf-8') as file:
                 file_content = file.readlines()
-
+                print(file_path)
                 if file_content[0].startswith("---"):
                     title = file_content[1][7:-1]
                     order = file_content[2][7:-1]
@@ -35,10 +35,6 @@ def get_file_name(root_dir):
                     file.truncate()
                     file.write("# " + title + "\n" + "".join(file_content))
                 else:
-
-                    title = file_content[1][7:-1]
-                    order = file_content[2][7:-1]
-                    print(title)
                     file_list.append([od, file_srouce_name, file_srouce_name])
 
             is_cat = 0
@@ -57,6 +53,6 @@ def get_file_name(root_dir):
         f.write(summary_content)
 
 
-ROOT_DIR_TEST = r"H:\\Scripting\\Vue Projects\\docs2_yuelili_com\\AE\\expression"
+ROOT_DIR_TEST = r"H:\\Scripting\\Vue Projects\\docs2_yuelili_com\\Houdini\\vex"
 ROOT_DIR2 = r"H:\\Scripting\\Vue Projects\\docs2_yuelili_com\\AE\\expression"
 get_file_name(ROOT_DIR_TEST)

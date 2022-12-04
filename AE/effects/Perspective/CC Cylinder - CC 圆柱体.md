@@ -1,9 +1,4 @@
----
-title: CC Cylinder - CC 圆柱体
-order: 6
-category:
-  - AE
----
+# CC Cylinder - CC 圆柱体
 
 ## 简述
 

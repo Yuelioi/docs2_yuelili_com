@@ -1,9 +1,4 @@
----
-title: Roughen Edges - 毛边
-order: 22
-category:
-  - AE
----
+# Roughen Edges - 毛边
 
 ## 简述
 

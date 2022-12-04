@@ -1,9 +1,4 @@
----
-title: CC Kernel - CC颜色内核
-order: 10
-category:
-  - AE
----
+# CC Kernel - CC颜色内核
 
 ## 简述
 

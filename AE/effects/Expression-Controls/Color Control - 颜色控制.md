@@ -1,9 +1,4 @@
----
-title: Color Control - 颜色控制
-order: 5
-category:
-  - AE
----
+# Color Control - 颜色控制
 
 ## 简述
 

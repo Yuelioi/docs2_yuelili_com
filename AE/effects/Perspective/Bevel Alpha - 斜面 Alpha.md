@@ -1,9 +1,4 @@
----
-title: Bevel Alpha - 斜面 Alpha
-order: 4
-category:
-  - AE
----
+# Bevel Alpha - 斜面 Alpha
 
 ## 简述
 

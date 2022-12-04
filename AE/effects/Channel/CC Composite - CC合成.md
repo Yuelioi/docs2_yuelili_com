@@ -1,9 +1,4 @@
----
-title: CC Composite - CC合成
-order: 5
-category:
-  - AE
----
+# CC Composite - CC合成
 
 ## 简述
 

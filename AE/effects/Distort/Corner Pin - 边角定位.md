@@ -1,9 +1,4 @@
----
-title: Corner Pin - 边角定位
-order: 18
-category:
-  - AE
----
+# Corner Pin - 边角定位
 
 ## 简述
 

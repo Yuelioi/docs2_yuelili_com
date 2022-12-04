@@ -1,9 +1,4 @@
----
-title: Polar Coordinates - 极坐标
-order: 27
-category:
-  - AE
----
+# Polar Coordinates - 极坐标
 
 ## 简述
 

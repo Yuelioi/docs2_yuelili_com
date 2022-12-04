@@ -1,9 +1,4 @@
----
-title: CC Light Wipe - CC照明擦除
-order: 8
-category:
-  - AE
----
+# CC Light Wipe - CC照明擦除
 
 ## 简述
 

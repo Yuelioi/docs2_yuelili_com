@@ -1,9 +1,4 @@
----
-title: CC Environment - CC 环境
-order: 7
-category:
-  - AE
----
+# CC Environment - CC 环境
 
 ## 简述
 

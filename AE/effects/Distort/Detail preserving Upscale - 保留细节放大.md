@@ -1,9 +1,4 @@
----
-title: Detail preserving Upscale - 保留细节放大
-order: 19
-category:
-  - AE
----
+# Detail preserving Upscale - 保留细节放大
 
 ## 简述
 

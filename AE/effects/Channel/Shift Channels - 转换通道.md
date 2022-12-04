@@ -1,9 +1,4 @@
----
-title: Shift Channels - 转换通道
-order: 8
-category:
-  - AE
----
+# Shift Channels - 转换通道
 
 ## 简述
 

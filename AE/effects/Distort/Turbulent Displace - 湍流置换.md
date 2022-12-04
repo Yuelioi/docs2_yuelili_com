@@ -1,9 +1,4 @@
----
-title: Turbulent Displace - 湍流置换
-order: 34
-category:
-  - AE
----
+# Turbulent Displace - 湍流置换
 
 ## 简述
 

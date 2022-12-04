@@ -1,9 +1,4 @@
----
-title: Ellipse - 椭圆
-order: 15
-category:
-  - AE
----
+# Ellipse - 椭圆
 
 ## 简述
 

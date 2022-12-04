@@ -1,9 +1,4 @@
----
-title: Median(Legacy) - 中间值（旧版）
-order: 7
-category:
-  - AE
----
+# Median(Legacy) - 中间值（旧版）
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: CC Spotlight - CC 聚光灯
-order: 9
-category:
-  - AE
----
+# CC Spotlight - CC 聚光灯
 
 ## 简述
 

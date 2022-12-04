@@ -1,9 +1,4 @@
----
-title: Gradient Ramp - 梯度渐变
-order: 19
-category:
-  - AE
----
+# Gradient Ramp - 梯度渐变
 
 ## 简述
 

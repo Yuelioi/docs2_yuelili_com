@@ -1,9 +1,4 @@
----
-title: Id Matte - ID遮罩
-order: 8
-category:
-  - AE
----
+# Id Matte - ID遮罩
 
 ## 简述
 

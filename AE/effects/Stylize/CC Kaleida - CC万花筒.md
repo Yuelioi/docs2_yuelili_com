@@ -1,9 +1,4 @@
----
-title: CC Kaleida - CC万花筒
-order: 8
-category:
-  - AE
----
+# CC Kaleida - CC万花筒
 
 ## 简述
 

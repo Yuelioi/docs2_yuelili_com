@@ -1,9 +1,4 @@
----
-title: Advance Settings 进阶设置
-order: 8
-category:
-  - AE
----
+# Advance Settings 进阶设置
 
 ## 介绍
 

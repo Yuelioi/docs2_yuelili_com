@@ -1,9 +1,4 @@
----
-title: CC Tiler - CC电视墙
-order: 17
-category:
-  - AE
----
+# CC Tiler - CC电视墙
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Levels(Individual Controls) - 色阶（单独控件）
-order: 27
-category:
-  - AE
----
+# Levels(Individual Controls) - 色阶（单独控件）
 
 ## 简述
 

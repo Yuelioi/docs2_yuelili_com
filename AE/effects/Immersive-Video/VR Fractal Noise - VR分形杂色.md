@@ -1,9 +1,4 @@
----
-title: VR Fractal Noise - VR分形杂色
-order: 8
-category:
-  - AE
----
+# VR Fractal Noise - VR分形杂色
 
 ## 简述
 

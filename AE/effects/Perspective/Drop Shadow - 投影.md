@@ -1,9 +1,4 @@
----
-title: Drop Shadow - 投影
-order: 10
-category:
-  - AE
----
+# Drop Shadow - 投影
 
 ## 简述
 

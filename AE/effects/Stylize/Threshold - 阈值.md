@@ -1,9 +1,4 @@
----
-title: Threshold - 阈值
-order: 26
-category:
-  - AE
----
+# Threshold - 阈值
 
 ## 简述
 

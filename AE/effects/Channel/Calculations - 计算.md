@@ -1,9 +1,4 @@
----
-title: Calculations - 计算
-order: 4
-category:
-  - AE
----
+# Calculations - 计算
 
 ## 简述
 

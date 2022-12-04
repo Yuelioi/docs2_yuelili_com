@@ -1,9 +1,4 @@
----
-title: Noise - 杂色
-order: 8
-category:
-  - AE
----
+# Noise - 杂色
 
 ## 简述
 

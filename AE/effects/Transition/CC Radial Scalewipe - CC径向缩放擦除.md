@@ -1,9 +1,4 @@
----
-title: CC Radial Scalewipe - CC径向缩放擦除
-order: 10
-category:
-  - AE
----
+# CC Radial Scalewipe - CC径向缩放擦除
 
 ## 简述
 

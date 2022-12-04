@@ -1,9 +1,4 @@
----
-title: Leave Color - 保留颜色
-order: 25
-category:
-  - AE
----
+# Leave Color - 保留颜色
 
 ## 简述
 

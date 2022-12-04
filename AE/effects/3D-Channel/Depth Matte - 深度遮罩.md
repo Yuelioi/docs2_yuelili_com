@@ -1,9 +1,4 @@
----
-title: Depth Matte - 深度遮罩
-order: 4
-category:
-  - AE
----
+# Depth Matte - 深度遮罩
 
 ## 简述
 

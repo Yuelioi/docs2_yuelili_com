@@ -1,9 +1,4 @@
----
-title: Depth Of Field - 场深度
-order: 5
-category:
-  - AE
----
+# Depth Of Field - 场深度
 
 ## 简述
 

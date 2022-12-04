@@ -1,9 +1,4 @@
----
-title: CC Vector Blur - CC矢量模糊
-order: 8
-category:
-  - AE
----
+# CC Vector Blur - CC矢量模糊
 
 ## 简述
 

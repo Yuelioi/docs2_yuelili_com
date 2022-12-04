@@ -1,9 +1,4 @@
----
-title: 体积光 Volumetric
-order: 3
-category:
-  - AE
----
+# 体积光 Volumetric
 
 ### Volumetric 体积光
 

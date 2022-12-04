@@ -1,9 +1,4 @@
----
-title: 材质 Material
-order: 3
-category:
-  - AE
----
+# 材质 Material
 
 ### Material 材质
 

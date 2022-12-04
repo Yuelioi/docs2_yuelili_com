@@ -1,9 +1,4 @@
----
-title: Dropdown menu control - 下拉菜单控件
-order: 6
-category:
-  - AE
----
+# Dropdown menu control - 下拉菜单控件
 
 ## 简述
 

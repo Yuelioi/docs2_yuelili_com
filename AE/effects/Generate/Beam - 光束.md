@@ -1,9 +1,4 @@
----
-title: Beam - 光束
-order: 6
-category:
-  - AE
----
+# Beam - 光束
 
 ## 简述
 

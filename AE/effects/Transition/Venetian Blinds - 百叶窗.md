@@ -1,9 +1,4 @@
----
-title: Venetian Blinds - 百叶窗
-order: 18
-category:
-  - AE
----
+# Venetian Blinds - 百叶窗
 
 ## 简述
 

@@ -1,9 +1,4 @@
----
-title: Liquify - 液化【暂无教程】
-order: 21
-category:
-  - AE
----
+# Liquify - 液化【暂无教程】
 
 ## 简述
 

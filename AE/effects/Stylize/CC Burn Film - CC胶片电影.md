@@ -1,9 +1,4 @@
----
-title: CC Burn Film - CC胶片电影
-order: 5
-category:
-  - AE
----
+# CC Burn Film - CC胶片电影
 
 ## 简述
 

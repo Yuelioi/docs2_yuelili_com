@@ -1,9 +1,4 @@
----
-title: CC Bubbles - CC 泡泡
-order: 5
-category:
-  - AE
----
+# CC Bubbles - CC 泡泡
 
 ## 简述
 

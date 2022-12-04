@@ -1,9 +1,4 @@
----
-title: Lightning - 闪光
-order: 6
-category:
-  - AE
----
+# Lightning - 闪光
 
 ## 简述
 

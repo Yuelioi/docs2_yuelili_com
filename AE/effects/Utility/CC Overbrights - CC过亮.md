@@ -1,9 +1,4 @@
----
-title: CC Overbrights - CC过亮
-order: 3
-category:
-  - AE
----
+# CC Overbrights - CC过亮
 
 ## 简述
 

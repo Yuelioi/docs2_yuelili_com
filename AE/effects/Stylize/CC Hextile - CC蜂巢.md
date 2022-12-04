@@ -1,9 +1,4 @@
----
-title: CC Hextile - CC蜂巢
-order: 7
-category:
-  - AE
----
+# CC Hextile - CC蜂巢
 
 ## 简述
 

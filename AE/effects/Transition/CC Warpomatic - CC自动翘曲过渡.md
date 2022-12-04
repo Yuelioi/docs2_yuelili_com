@@ -1,9 +1,4 @@
----
-title: CC Warpomatic - CC自动翘曲过渡
-order: 13
-category:
-  - AE
----
+# CC Warpomatic - CC自动翘曲过渡
 
 ## 简述
 

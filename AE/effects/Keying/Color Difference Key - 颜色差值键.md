@@ -1,9 +1,4 @@
----
-title: Color Difference Key - 颜色差值键
-order: 4
-category:
-  - AE
----
+# Color Difference Key - 颜色差值键
 
 ## 简述
 

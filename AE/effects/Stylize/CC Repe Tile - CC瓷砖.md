@@ -1,9 +1,4 @@
----
-title: CC Repe Tile - CC瓷砖
-order: 11
-category:
-  - AE
----
+# CC Repe Tile - CC瓷砖
 
 ## 简述
 

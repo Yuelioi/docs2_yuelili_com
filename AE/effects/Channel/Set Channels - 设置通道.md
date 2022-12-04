@@ -1,9 +1,4 @@
----
-title: Set Channels - 设置通道
-order: 9
-category:
-  - AE
----
+# Set Channels - 设置通道
 
 ## 简述
 
