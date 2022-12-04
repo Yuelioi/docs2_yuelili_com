@@ -1,9 +1,4 @@
----
-title: FootageItem 素材
-order: 7
-category:
-  - AE
----
+# FootageItem 素材
 ## FootageItem object #
 
 app.project.item(index)  

@@ -1,9 +1,4 @@
----
-title: 资源
-order: 3
-category:
-  - AE 表达式
----
+# 资源
 
 用户“Beaver”在 Mograph 论坛上发布了[5 个将改变您生活的表达式。](http://mograph.net/board/index.php?showtopic=13954)
 

@@ -1,9 +1,4 @@
----
-title: SmartFX
-order: 2
-category:
-  - AE 插件开发
----
+# SmartFX
 
 SmartFX(智能插件) API 提供效果和 AE 之间的双向通信，实现了许多性能优化，并提供了以前无法获得的依赖信息。这种效果 API 的扩展是在 After Effects 中实现每通道 32 位支持的方式。
 

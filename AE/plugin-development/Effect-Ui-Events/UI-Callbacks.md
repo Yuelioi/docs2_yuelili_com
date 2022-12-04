@@ -1,9 +1,4 @@
----
-title: UI 回调
-order: 6
-category:
-  - AE 插件开发
----
+# UI 回调
 
 
 After Effects 提供了回调功能，用于在坐标系之间进行转换，并获得操作系统特定的绘图上下文信息，无需猜测或询问操作系统。请使用这些回调! 这些回调的指针在 `PF_EventCallbacks` 中提供。使用 `AE_EffectUI.h` 和 `AE_EffectCB.h` 中的宏来访问这些程序。

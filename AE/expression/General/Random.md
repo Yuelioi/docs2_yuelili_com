@@ -1,9 +1,4 @@
----
-title: Random 随机
-order: 4
-category:
-  - AE表达式
----
+# Random 随机
 
 ## seedRandom()
 

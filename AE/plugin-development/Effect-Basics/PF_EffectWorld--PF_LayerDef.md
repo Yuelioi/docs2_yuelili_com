@@ -1,9 +1,4 @@
----
-title: PF_EffectWorld   PF_LayerDef
-order: 9
-category:
-  - AE 插件开发
----
+# PF_EffectWorld   PF_LayerDef
 
 After Effects 使用 PF_EffectWorlds 表示图像，也叫 PF_LayerDefs。
 

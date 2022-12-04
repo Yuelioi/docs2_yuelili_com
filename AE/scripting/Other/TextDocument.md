@@ -1,9 +1,4 @@
----
-title: TextDocument 文本
-order: 9
-category:
-  - AE
----
+# TextDocument 文本
 
 ## TextDocument object
 

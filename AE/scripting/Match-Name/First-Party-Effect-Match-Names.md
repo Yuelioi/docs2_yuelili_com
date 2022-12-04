@@ -1,9 +1,4 @@
----
-title: 内置效果匹配名
-order: 7
-category:
-  - AE
----
+# 内置效果匹配名
     |**Category** | **Match Name** | **Display Name (EN)** | 显示名称（中文） | BPC | GPU|
 |---|---|---|---|---|---|
 |3D Channel / 3D 通道 | ADBE AUX CHANNEL EXTRACT | 3D Channel Extract | 3D 通道提取 ||

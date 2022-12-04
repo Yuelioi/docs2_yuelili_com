@@ -1,9 +1,4 @@
----
-title: FolderItem 文件夹
-order: 6
-category:
-  - AE
----
+# FolderItem 文件夹
 ## FolderItem object #
 
 app.project.FolderItem

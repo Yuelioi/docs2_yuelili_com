@@ -1,9 +1,4 @@
----
-title: AEGP 细节
-order: 8
-category:
-  - AE 插件开发
----
+# AEGP 细节
 
 ## 拥有 Cookie
 

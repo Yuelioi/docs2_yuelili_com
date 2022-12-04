@@ -1,9 +1,4 @@
----
-title: Time Conversion
-order: 2
-category:
-  - AE 表达式
----
+# Time Conversion
 
 ::: danger
 

@@ -1,9 +1,4 @@
----
-title: 交互回调函数
-order: 9
-category:
-  - AE 插件开发
----
+# 交互回调函数
 
 虽然在[PF_InData](../effect-basics/PF_InData.html)中提供了未使用宏的函数指针，但请使用所提供的宏来访问它们。看看看我们对弃用宏有多严格？这是我们的小秘密哦。
 

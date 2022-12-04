@@ -1,9 +1,4 @@
----
-title: Comp 合成
-order: 2
-category:
-  - AE表达式
----
+# Comp 合成
 
 ## layer()
 

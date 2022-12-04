@@ -1,9 +1,4 @@
----
-title: 应该在哪安装插件
-order: 14
-category:
-  - AE 插件开发
----
+# 应该在哪安装插件
 
 将插件安装在公共位置，可以防止被 Premiere Pro 加载。
 

@@ -1,9 +1,4 @@
----
-title: AE 对象模型
-order: 5
-category:
-  - AE
----
+# AE 对象模型
 
 ## 说明
 

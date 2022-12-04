@@ -1,9 +1,4 @@
----
-title: Premiere Pro & 其他主机
-order: 2
-category:
-  - AE 插件开发
----
+# Premiere Pro & 其他主机
 
 Adobe Premiere Pro 和 Adobe Premiere Elements 都支持第 2、3、5 章中描述的 After Effects 插件API。
 

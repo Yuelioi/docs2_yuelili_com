@@ -1,9 +1,4 @@
----
-title: Path Property 路径属性
-order: 10
-category:
-  - AE 表达式
----
+# Path Property 路径属性
 
 ::: info Note
 2018 之后可用

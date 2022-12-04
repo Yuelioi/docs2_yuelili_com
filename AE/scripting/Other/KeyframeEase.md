@@ -1,9 +1,4 @@
----
-title: KeyframeEase 关键帧缓动
-order: 4
-category:
-  - AE
----
+# KeyframeEase 关键帧缓动
 
 ## 关键帧缓动
 

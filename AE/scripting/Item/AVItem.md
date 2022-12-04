@@ -1,9 +1,4 @@
----
-title: AVItem 对象
-order: 4
-category:
-  - AE
----
+# AVItem 对象
 
 ## AVItem object
 

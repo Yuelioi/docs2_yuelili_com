@@ -1,9 +1,4 @@
----
-title: 不支持的特性
-order: 11
-category:
-  - AE 插件开发
----
+# 不支持的特性
 
 目前已知 Premiere Pro 不支持 After Effects API 的以下功能。
 

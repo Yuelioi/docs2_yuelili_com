@@ -1,9 +1,4 @@
----
-title: TextLayer 文字图层
-order: 8
-category:
-  - AE
----
+# TextLayer 文字图层
 
 ## TextLayer object
 

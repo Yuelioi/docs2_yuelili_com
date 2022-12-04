@@ -1,9 +1,4 @@
----
-title: 自定义UI与Drawbot
-order: 5
-category:
-  - AE 插件开发
----
+# 自定义UI与Drawbot
 
 自定义用户界面使用 Drawbot 的合成绘图模型。Drawbot 套件可用于。
 

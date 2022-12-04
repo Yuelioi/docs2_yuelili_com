@@ -1,9 +1,4 @@
----
-title: MaskPropertyGroup 蒙版属性组
-order: 5
-category:
-  - AE
----
+# MaskPropertyGroup 蒙版属性组
 
 ## 蒙版属性组对象
 

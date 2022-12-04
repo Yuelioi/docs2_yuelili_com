@@ -1,9 +1,4 @@
----
-title: Setting 脚本设置
-order: 6
-category:
-  - AE
----
+# Setting 脚本设置
 
 ## 脚本设置
 

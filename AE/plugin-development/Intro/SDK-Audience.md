@@ -1,9 +1,4 @@
----
-title: SDK 受众
-order: 5
-category:
-  - AE 插件开发
----
+# SDK 受众
 
 必须熟练掌握 C/C++。虽然我们会帮助解决 After Effects API 的具体问题，但IDE 或基本的编程概念需要自己掌握。
 

@@ -1,9 +1,4 @@
----
-title: Artisans
-order: 2
-category:
-  - AE 插件开发
----
+# Artisans
 
 ::: tip
 如果你正在考虑开发一个 Artisan(工匠)，请先和我们讨论一下。

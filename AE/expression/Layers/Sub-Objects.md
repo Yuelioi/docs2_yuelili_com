@@ -1,9 +1,4 @@
----
-title: 子对象
-order: 1
-category:
-  - AE 表达式
----
+# 子对象
 
 ## source
 

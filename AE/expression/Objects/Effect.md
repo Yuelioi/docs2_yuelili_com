@@ -1,9 +1,4 @@
----
-title: Effect 效果
-order: 7
-category:
-  - AE表达式
----
+# Effect 效果
 
 ## active
 

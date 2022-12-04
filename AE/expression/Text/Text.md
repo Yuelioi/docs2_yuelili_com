@@ -1,9 +1,4 @@
----
-title: Text
-order: 1
-category:
-  - AE表达式
----
+# Text
 
 ## Text
 

@@ -1,9 +1,4 @@
----
-title: 插件安装
-order: 3
-category:
-  - AE 插件开发
----
+# 插件安装
 
 使用这里描述的通用插件文件夹。[应该在哪安装插件](../intro/where-installers-should-put-plug-ins.html) 。
 

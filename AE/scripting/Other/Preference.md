@@ -1,9 +1,4 @@
----
-title: Preference 首选项
-order: 7
-category:
-  - AE
----
+# Preference 首选项
 
 ## app.preferences
 

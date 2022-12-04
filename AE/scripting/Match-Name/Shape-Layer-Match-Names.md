@@ -1,9 +1,4 @@
----
-title: 形状图层匹配名
-order: 6
-category:
-  - AE
----
+# 形状图层匹配名
 
 
 |**Category** | **Match Name** | **Display Name (EN)** | 显示名称（中文）|

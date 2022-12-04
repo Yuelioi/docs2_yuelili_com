@@ -1,9 +1,4 @@
----
-title: 全局 Outflags
-order: 3
-category:
-  - AE 插件开发
----
+# 全局 Outflags
 
 所有的音频效果必须设置`PF_OutFlag_AUDIO_EFFECT_TOO`或`PF_OutFlag_AUDIO_EFFECT_ONLY`。
 

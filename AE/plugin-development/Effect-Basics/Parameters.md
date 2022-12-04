@@ -1,9 +1,4 @@
----
-title: Parameters
-order: 7
-category:
-  - AE 插件开发
----
+# Parameters
 
 参数是随时间变化的数值流；源图像、滑块、角度、点、颜色、路径，以及用户可以操作的任何任意数据类型。
 

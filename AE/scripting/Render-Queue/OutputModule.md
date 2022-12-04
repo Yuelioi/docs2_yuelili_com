@@ -1,9 +1,4 @@
----
-title: OutputModule对象
-order: 6
-category:
-  - AE
----
+# OutputModule对象
 
 ## 输出模块对象
 

@@ -1,9 +1,4 @@
----
-title: AEIOs
-order: 2
-category:
-  - AE 插件开发
----
+# AEIOs
 
 AEIOs 是执行媒体文件导入(Import)和/或导出(Output)的 AEGPs。AEIOs 为一个特定类型的文件做 After Effects(或 After Effects 的插件)通常会做的一切。在导入方面，AEIOs 可以打开现有的文件，管理文件特定的解释选项，并以 AEGP_SoundWorld 和 PF_EffectWorld 格式向 After Effects 提供文件中的音频和帧。此外，AEIOs 可以交互式地创建文件，要求用户提供他们想要的设置，而不是从文件中读取它们。在输出方面，AEIOs 可以创建和管理渲染队列项目的输出选项，创建输出文件并将帧(由 After Effects 提供的 PF_EffectWorlds)保存到这些文件中。
 

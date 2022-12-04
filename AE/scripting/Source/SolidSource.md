@@ -1,9 +1,4 @@
----
-title: SolidSource 纯色源
-order: 5
-category:
-  - AE
----
+# SolidSource 纯色源
 
 ## 纯色源对象
 

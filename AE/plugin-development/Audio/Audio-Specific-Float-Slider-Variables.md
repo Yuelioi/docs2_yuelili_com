@@ -1,9 +1,4 @@
----
-title: 音频特定的浮动滑块变量
-order: 5
-category:
-  - AE 插件开发
----
+# 音频特定的浮动滑块变量
 
 Audio-Specific Float Slider Variables
 

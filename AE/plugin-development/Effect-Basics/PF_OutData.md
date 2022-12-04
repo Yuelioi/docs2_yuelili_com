@@ -1,9 +1,4 @@
----
-title: PF_OutData
-order: 6
-category:
-  - AE 插件开发
----
+# PF_OutData
 
 使用 "PF_OutData "将你的插件所做的改变传达给 After Effects。更改这些字段的有效时间已注明。
 

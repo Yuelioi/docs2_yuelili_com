@@ -1,9 +1,4 @@
----
-title: OMCollection对象
-order: 5
-category:
-  - AE
----
+# OMCollection对象
 
 ## 输出模块集
 

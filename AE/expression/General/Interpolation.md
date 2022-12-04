@@ -1,9 +1,4 @@
----
-title: Interpolation 线性插值
-order: 5
-category:
-  - AE表达式
----
+# Interpolation 线性插值
 
 ## linear()
 

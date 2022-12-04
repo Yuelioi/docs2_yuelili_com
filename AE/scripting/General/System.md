@@ -1,9 +1,4 @@
----
-title: System 系统
-order: 5
-category:
-  - AE
----
+# System 系统
 
 ## 系统对象 #
 

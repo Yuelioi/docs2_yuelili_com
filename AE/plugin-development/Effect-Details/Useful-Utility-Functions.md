@@ -1,9 +1,4 @@
----
-title: 实用函数
-order: 15
-category:
-  - AE 插件开发
----
+# 实用函数
 
 ## PF_EffectUISuite
 

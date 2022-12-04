@@ -1,9 +1,4 @@
----
-title: 用户UI
-order: 4
-category:
-  - AE
----
+# 用户UI
 
     在线构建：[https://scriptui.joonas.me](https://scriptui.joonas.me/)
 

@@ -1,9 +1,4 @@
----
-title: 效果预设
-order: 8
-category:
-  - AE 插件开发
----
+# 效果预设
 
 Premiere Pro 使用的预设方案与 After Effects 不同。
 

@@ -1,9 +1,4 @@
----
-title: FootageSource 素材源
-order: 3
-category:
-  - AE
----
+# FootageSource 素材源
 
 ## 素材源对象
 

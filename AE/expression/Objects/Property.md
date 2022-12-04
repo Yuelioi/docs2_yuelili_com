@@ -1,9 +1,4 @@
----
-title: Property 属性
-order: 9
-category:
-  - AE表达式
----
+# Property 属性
 
 ## value
 

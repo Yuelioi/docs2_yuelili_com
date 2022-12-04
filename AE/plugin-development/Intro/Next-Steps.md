@@ -1,9 +1,4 @@
----
-title: 下一步
-order: 18
-category:
-  - AE 插件开发
----
+# 下一步
 
 现在已经了解了什么是插件，能做什么，以及 After Effects 如何与它们进行交互。
 

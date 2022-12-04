@@ -1,9 +1,4 @@
----
-title: LightLayer 灯光图层
-order: 6
-category:
-  - AE
----
+# LightLayer 灯光图层
 
 ## LightLayer object
 

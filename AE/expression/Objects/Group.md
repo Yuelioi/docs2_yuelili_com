@@ -1,9 +1,4 @@
----
-title: Group 组
-order: 6
-category:
-  - AE表达式
----
+# Group 组
 
 ## 说明
 

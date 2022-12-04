@@ -1,9 +1,4 @@
----
-title: AEIO_ModuleInfo
-order: 4
-category:
-  - AE 插件开发
----
+# AEIO_ModuleInfo
 
 这是一个结构，你的 AEIO 将定义它的基本属性。
 

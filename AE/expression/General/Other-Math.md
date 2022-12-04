@@ -1,9 +1,4 @@
----
-title: Other Math 角度弧度
-order: 7
-category:
-  - AE表达式
----
+# Other Math 角度弧度
 
 ## degreesToRadians()
 

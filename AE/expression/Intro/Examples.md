@@ -1,9 +1,4 @@
----
-title: 示例
-order: 4
-category:
-  - AE 表达式
----
+# 示例
 
 :::info Note
 

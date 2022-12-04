@@ -1,9 +1,4 @@
----
-title: ImportOptions 导入设置
-order: 3
-category:
-  - AE
----
+# ImportOptions 导入设置
 
 ## 导入选项
 

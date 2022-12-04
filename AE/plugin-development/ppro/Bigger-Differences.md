@@ -1,9 +1,4 @@
----
-title: 更大的差异
-order: 6
-category:
-  - AE 插件开发
----
+# 更大的差异
 
 只要一个效果只支持 After Effects 所支持的基本 ARGB_8u 像素格式，Premiere Pro 就会尝试模仿 After Effects 的托管行为，并隐藏各种差异，因为渲染管道架构不同。但是如果一个效果想要支持额外的像素格式，比如 32 位 RGB，就要准备好处理进一步的分歧行为。
 

@@ -1,9 +1,4 @@
----
-title: 音频数据结构体
-order: 4
-category:
-  - AE 插件开发
----
+# 音频数据结构体
 
 以下数据类型被 After Effects 用来描述音频数据。
 

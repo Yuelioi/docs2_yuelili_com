@@ -1,9 +1,4 @@
----
-title: PropertyGroup 属性组
-order: 4
-category:
-  - AE
----
+# PropertyGroup 属性组
 
 ## PropertyGroup object
 

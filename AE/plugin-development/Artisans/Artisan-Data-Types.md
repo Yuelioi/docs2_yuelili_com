@@ -1,9 +1,4 @@
----
-title: Artisan 数据类型
-order: 3
-category:
-  - AE 插件开发
----
+# Artisan 数据类型
 
 以下是 Artisan API 中最常用的数据类型。
 

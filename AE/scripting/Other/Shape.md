@@ -1,9 +1,4 @@
----
-title: Shape 形状
-order: 8
-category:
-  - AE
----
+# Shape 形状
 
 ## 形状对象 Shape object
 

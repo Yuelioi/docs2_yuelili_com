@@ -1,9 +1,4 @@
----
-title: ItemCollection 项目集
-order: 3
-category:
-  - AE
----
+# ItemCollection 项目集
 ## app.project.items #
 
 描述：ItemCollection对象表示项目(item)的集合。

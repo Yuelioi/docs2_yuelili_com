@@ -1,9 +1,4 @@
----
-title: 新鲜东西
-order: 6
-category:
-  - AE 插件开发
----
+# 新鲜东西
 
 如果这是你第一次开发 After Effects 插件，可以跳过新内容部分，直接进入[如何开始创建插件](how-to-start-creating-plug-ins.html) 。
 

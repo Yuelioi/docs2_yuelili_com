@@ -1,9 +1,4 @@
----
-title: 异常
-order: 13
-category:
-  - AE 插件开发
----
+# 异常
 
 处理你插件产生的异常。把那些不是由插件代码产生的异常传递给 After Effects。
 

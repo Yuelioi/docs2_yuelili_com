@@ -1,9 +1,4 @@
----
-title: Light 灯光
-order: 5
-category:
-  - AE表达式
----
+# Light 灯光
 
 除了 source、effect、mask、width、height、anchorPoint、scale、opacity、audioLevels、timeRemap 以及所有材质属性外，  
 "光灯光"对象具有与"图层"对象相同的属性和方法。

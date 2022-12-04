@@ -1,9 +1,4 @@
----
-title: PropertyBase 属性基类
-order: 2
-category:
-  - AE
----
+# PropertyBase 属性基类
 
 ## PropertyBase object 属性基类
 

@@ -1,9 +1,4 @@
----
-title: 基本主机差异
-order: 4
-category:
-  - AE 插件开发
----
+# 基本主机差异
 
 我们已经尝试在 Premiere Pro 中为 After Effects 效果插件提供强大的兼容性。
 

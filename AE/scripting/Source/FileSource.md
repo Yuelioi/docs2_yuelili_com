@@ -1,9 +1,4 @@
----
-title: FileSource 文件源
-order: 2
-category:
-  - AE
----
+# FileSource 文件源
 
 ## 文件源对象
 

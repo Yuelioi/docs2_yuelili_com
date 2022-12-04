@@ -1,9 +1,4 @@
----
-title: Layer 图层
-order: 2
-category:
-  - AE
----
+# Layer 图层
 
 ## Layer object 图层对象
 

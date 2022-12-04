@@ -1,9 +1,4 @@
----
-title: CompItem 合成
-order: 5
-category:
-  - AE
----
+# CompItem 合成
 
 ## CompItem object
 

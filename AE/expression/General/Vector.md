@@ -1,9 +1,4 @@
----
-title: Vector 矢量数学
-order: 3
-category:
-  - AE表达式
----
+# Vector 矢量数学
 
 ## 介绍
 

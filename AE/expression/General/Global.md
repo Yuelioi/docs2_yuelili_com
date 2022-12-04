@@ -1,9 +1,4 @@
----
-title: Global 全局
-order: 1
-category:
-  - AE表达式
----
+# Global 全局
 
 ## comp()
 

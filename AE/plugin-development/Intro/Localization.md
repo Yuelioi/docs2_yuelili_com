@@ -1,9 +1,4 @@
----
-title: 本地化
-order: 15
-category:
-  - AE 插件开发
----
+# 本地化
 
 从 CC 开始，PF 应用套件([实用功能](../effect-details/useful-utility-functions.html) )增加了`PF_AppGetLanguage()`来查询当前语言，这样就可以使用正确的语言字符串。
 

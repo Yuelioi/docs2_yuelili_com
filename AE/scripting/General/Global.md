@@ -1,9 +1,4 @@
----
-title: Global 全局函数
-order: 2
-category:
-  - AE
----
+# Global 全局函数
 
 ## 全局函数
 

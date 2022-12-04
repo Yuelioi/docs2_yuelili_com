@@ -1,9 +1,4 @@
----
-title: AEGPs
-order: 2
-category:
-  - AE 插件开发
----
+# AEGPs
 
 After Effects General Plug-in (AEGP)的 API 强大而广泛，提供的功能超出了效果插件范围。
 

@@ -1,9 +1,4 @@
----
-title: 实施细节
-order: 6
-category:
-  - AE 插件开发
----
+# 实施细节
 
 ## 导出 Bit-Depth
 

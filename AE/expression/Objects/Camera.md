@@ -1,9 +1,4 @@
----
-title: Camera 摄像机
-order: 4
-category:
-  - AE表达式
----
+# Camera 摄像机
 
 除了 source、effect、mask、width、height、anchorPoint、scale、opacity、audioLevels、timeRemap 以及所有材质属性外，"摄像机"对象具有与"图层"对象相同的属性和方法。
 

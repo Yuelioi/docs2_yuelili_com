@@ -1,9 +1,4 @@
----
-title: 简介
-order: 2
-category:
-  - AE 插件开发
----
+# 简介
 
 欢迎来到 Adobe® After Effects® 软件开发工具包(SDK)
 

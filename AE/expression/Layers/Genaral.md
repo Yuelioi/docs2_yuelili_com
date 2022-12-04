@@ -1,9 +1,4 @@
----
-title: 常规
-order: 2
-category:
-  - AE 表达式
----
+# 常规
 
 ## width
 

@@ -1,9 +1,4 @@
----
-title: 调用序列
-order: 3
-category:
-  - AE 插件开发
----
+# 调用序列
 
 与所有的 AEGP 一样，在启动过程中，插件的 PiPL 中导出的入口函数函数被调用。在这个函数中，AEIO 必须提供所需函数的函数指针，并描述它们的能力，然后将适当的结构传递给[AEGP_RegisterIO()](../aegps/aegp-suites.html)(#aegps-aegp-suites-aegp-registersuites)。
 

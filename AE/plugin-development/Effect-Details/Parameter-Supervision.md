@@ -1,9 +1,4 @@
----
-title: 参数管理
-order: 12
-category:
-  - AE 插件开发
----
+# 参数管理
 
 管理(Supervision)是指根据其他参数的值动态地改变一些参数的值。要管理一个参数，在`PF_Cmd_PARAM_SETUP`期间，在添加它之前设置[PF_ParamFlag_SUPERVISE](../effect-basics/PF_ParamDef.html) 。每当它被改变，你会收到[PF_Cmd_USER_CHANGED_PARAM](../effect-basics/command-selectors.html) 。改变的参数的索引(在插件的参数数组中)在`PF_UserChangedParamExtra`(额外)参数中发送。在 `PF_Cmd_USER_CHANGED_PARAM`期间，你可以改变任何参数的值和外观。
 

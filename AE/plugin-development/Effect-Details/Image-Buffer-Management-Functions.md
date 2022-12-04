@@ -1,9 +1,4 @@
----
-title: 图像缓冲区管理函数
-order: 6
-category:
-  - AE 插件开发
----
+# 图像缓冲区管理函数
 
 使用这些函数创建和销毁[PF_EffectWorld / PF_LayerDef](../effect-basics/PF_EffectWorld.html)，并找出它们的位深度。
 

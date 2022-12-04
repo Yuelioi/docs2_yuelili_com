@@ -1,9 +1,4 @@
----
-title: AVLayer 对象
-order: 4
-category:
-  - AE
----
+# AVLayer 对象
 
 ## AVLayer object
 

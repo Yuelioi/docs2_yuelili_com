@@ -1,9 +1,4 @@
----
-title: 访问音频数据
-order: 6
-category:
-  - AE 插件开发
----
+# 访问音频数据
 
 使用`PF_CHECKOUT_LAYER_AUDIO`从[Interaction Callbacks](../effect-details/interaction-callback-functions.html) 检索一个音频层。
 

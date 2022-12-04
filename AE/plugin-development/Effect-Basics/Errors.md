@@ -1,9 +1,4 @@
----
-title: Errors
-order: 10
-category:
-  - AE 插件开发
----
+# Errors
 
 总是，总是，_总是_(总是！)从`main()`返回一个`PF_Err`。插件必须把所有的错误传回给 After Effects。
 

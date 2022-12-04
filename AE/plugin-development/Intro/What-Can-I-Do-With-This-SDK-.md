@@ -1,9 +1,4 @@
----
-title: SDK 可以做什么
-order: 3
-category:
-  - AE 插件开发
----
+# SDK 可以做什么
 
 此 SDK 描述了插件的应用编程接口(API)。这些插件可以扩展 After Effects 和其他支持 After Effects API 的应用程序的功能。插件也可用于在 After Effects 链接其他应用程序。
 

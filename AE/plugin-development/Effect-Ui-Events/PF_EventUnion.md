@@ -1,9 +1,4 @@
----
-title: PF_EventUnion
-order: 4
-category:
-  - AE 插件开发
----
+# PF_EventUnion
 
 PF_EventExtra 中的 PF_EventUnion 是以下四个结构体的联合。
 

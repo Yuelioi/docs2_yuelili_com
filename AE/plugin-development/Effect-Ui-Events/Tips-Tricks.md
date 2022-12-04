@@ -1,9 +1,4 @@
----
-title: 提示与技巧
-order: 7
-category:
-  - AE 插件开发
----
+# 提示与技巧
 
 ## UI 性能
 

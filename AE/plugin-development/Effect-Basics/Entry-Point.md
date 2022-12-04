@@ -1,9 +1,4 @@
----
-title: 入口函数
-order: 3
-category:
-  - AE 插件开发
----
+# 入口函数
 
 After Effects 和效果插件之间的所有通信都是由 After Effects 发起的，而且都是由主机(After Effects)调用一个入口函数函数来完成。
 

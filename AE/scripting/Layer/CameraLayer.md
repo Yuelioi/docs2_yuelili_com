@@ -1,9 +1,4 @@
----
-title: CameraLayer 摄像机对象
-order: 5
-category:
-  - AE
----
+# CameraLayer 摄像机对象
 ## CameraLayer object #
 
 app.project.item(index).layer(index)

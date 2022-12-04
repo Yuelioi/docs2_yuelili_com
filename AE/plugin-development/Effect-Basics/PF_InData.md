@@ -1,9 +1,4 @@
----
-title: PF_InData
-order: 5
-category:
-  - AE 插件开发
----
+# PF_InData
 
 After Effects 使用`PF_InData`与系统、项目、图层和音频通信。在插件接收入口指令之前更新此结构体。
 

@@ -1,9 +1,4 @@
----
-title: ShapeLayer 形状图层
-order: 7
-category:
-  - AE
----
+# ShapeLayer 形状图层
 
 ## ShapeLayer object
 

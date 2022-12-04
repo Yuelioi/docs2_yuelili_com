@@ -1,9 +1,4 @@
----
-title: Viewer 查看器
-order: 10
-category:
-  - AE
----
+# Viewer 查看器
 
 ## Viewer 查看器对象
 

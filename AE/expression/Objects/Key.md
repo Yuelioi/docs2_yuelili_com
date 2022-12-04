@@ -1,9 +1,4 @@
----
-title: Key 关键帧
-order: 11
-category:
-  - AE表达式
----
+# Key 关键帧
 
 当您访问 Key 对象（主要指关键帧和标记）时，可获得 time、index 和 value 属性。标记具体请看下一章
 

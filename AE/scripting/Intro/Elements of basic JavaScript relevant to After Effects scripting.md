@@ -1,9 +1,4 @@
----
-title: 与AE脚本相关的 javascript 元素
-order: 4
-category:
-  - AE 脚本
----
+# 与AE脚本相关的 javascript 元素
 
 ## Elements of basic JavaScript relevant to After Effects scripting
 

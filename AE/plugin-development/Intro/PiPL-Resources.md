@@ -1,9 +1,4 @@
----
-title: PiPL 资源
-order: 12
-category:
-  - AE 插件开发
----
+# PiPL 资源
 
 起源于 20 多年前的 Adobe Photoshop，Plug-In Property Lists(插件属性列表)，或称作 PiPLs，是在不执行插件的情况下，提供有关插件行为的基本信息的资源。PiPLs 在 After Effects 中已被`PF_Cmd_GLOBAL_SETUP`(见[全局入口指令](../effect-basics/command-selectors.html)(#effect-basics-command-selectors-global-selectors)和动态 outflags 所取代。然而，出于历史原因，在 `PF_Cmd_GLOBAL_SETUP`过程中指示的行为必须与 PiPL 中的行为一致。
 

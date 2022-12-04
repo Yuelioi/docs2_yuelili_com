@@ -1,9 +1,4 @@
----
-title: Apple Silicon 支持
-order: 16
-category:
-  - AE 插件开发
----
+# Apple Silicon 支持
 
 Adobe 现在支持一些在苹果上原生运行的产品中的效果插件。例如，After Effects 的效果插件在 Adobe Premiere Pro 和 Adobe Media Encoder 中也可用。
 

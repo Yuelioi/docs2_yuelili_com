@@ -1,9 +1,4 @@
----
-title: PlaceholderSource 占位符源
-order: 4
-category:
-  - AE
----
+# PlaceholderSource 占位符源
 
 ## 占位符源对象
 

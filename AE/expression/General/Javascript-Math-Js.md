@@ -1,9 +1,4 @@
----
-title: JavaScript Math JS数学方法
-order: 10
-category:
-  - AE表达式
----
+# JavaScript Math JS数学方法
 
 ## abs()
 

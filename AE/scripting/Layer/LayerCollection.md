@@ -1,9 +1,4 @@
----
-title: LayerCollection 图层集
-order: 3
-category:
-  - AE
----
+# LayerCollection 图层集
 
 ## LayerCollection object
 

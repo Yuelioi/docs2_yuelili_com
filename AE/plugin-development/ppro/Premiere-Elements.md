@@ -1,9 +1,4 @@
----
-title: Premiere Elements
-order: 10
-category:
-  - AE 插件开发
----
+# Premiere Elements
 
 # Premiere Elements
 

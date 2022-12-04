@@ -1,9 +1,4 @@
----
-title: 第三方插件主机
-order: 11
-category:
-  - AE 插件开发
----
+# 第三方插件主机
 
 一些开发者对使用每个 After Effects 版本的新 API 功能持谨慎态度，以保持与部分实现的主机的兼容性。通过检查[PF_InData](../effect-basics/PF_InData.html)> appl_id 来区分主机应用。After Effects 使用 appl_id 'FXTC'。
 

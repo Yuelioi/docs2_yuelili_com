@@ -1,9 +1,4 @@
----
-title: 新功能块
-order: 5
-category:
-  - AE 插件开发
----
+# 新功能块
 
 在其主入口函数函数中，每个 AEIO 插件必须填写`AEIO_FunctionBlock`，提供指向 After Effects 将为不同文件相关任务调用的函数的指针。
 

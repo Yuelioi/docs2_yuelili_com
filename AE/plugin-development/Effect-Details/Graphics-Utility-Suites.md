@@ -1,9 +1,4 @@
----
-title: 图形实用套件
-order: 8
-category:
-  - AE 插件开发
----
+# 图形实用套件
 
 After Effects 通过以下函数套件公开了其内部的变换和图形实用程序。
 

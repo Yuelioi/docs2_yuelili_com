@@ -1,9 +1,4 @@
----
-title: 颜色空间转换
-order: 19
-category:
-  - AE 插件开发
----
+# 颜色空间转换
 
 不同的像素格式对不同的操作有用。AE通过`PF_ColorCallbacksSuite`暴露其内部功能。以下是支持的格式。
 

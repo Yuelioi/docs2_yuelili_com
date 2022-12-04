@@ -1,9 +1,4 @@
----
-title: 脚本概述
-order: 2
-category:
-  - AE
----
+# 脚本概述
 
 ## 版本说明
 

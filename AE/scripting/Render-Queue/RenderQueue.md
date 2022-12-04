@@ -1,9 +1,4 @@
----
-title: RenderQueue 渲染队列
-order: 2
-category:
-  - AE
----
+# RenderQueue 渲染队列
 
 ## 渲染队列对象 这节暂时跳过
 

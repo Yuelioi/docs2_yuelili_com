@@ -1,9 +1,4 @@
----
-title: Property 属性
-order: 3
-category:
-  - AE
----
+# Property 属性
 
 ## Property object 属性对象
 

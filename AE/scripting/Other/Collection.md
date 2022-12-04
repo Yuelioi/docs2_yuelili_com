@@ -1,9 +1,4 @@
----
-title: Collection 集合对象
-order: 2
-category:
-  - AE
----
+# Collection 集合对象
 
 ## Collection object 集合对象
 

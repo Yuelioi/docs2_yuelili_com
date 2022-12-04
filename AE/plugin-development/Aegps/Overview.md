@@ -1,9 +1,4 @@
----
-title: 预览
-order: 3
-category:
-  - AE 插件开发
----
+# 预览
 
 AEGPs 使用插件组件架构(PICA)功能套件来访问所有功能。
 

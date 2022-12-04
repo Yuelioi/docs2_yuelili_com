@@ -1,9 +1,4 @@
----
-title: 跨版本兼容性
-order: 10
-category:
-  - AE 插件开发
----
+# 跨版本兼容性
 
 一般来说，应该使用最新的 After Effects SDK 头文件来编译插件。这样可以使用最新的套件和 API 功能。当 After Effects 的新版本发布时，一般不需要提供新版本，除非想使用 SDK 的新功能。然而，在声称与新版本兼容之前，你应该在新版本的 After Effects 中测试你的插件。
 
