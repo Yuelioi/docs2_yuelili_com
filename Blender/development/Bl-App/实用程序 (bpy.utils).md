@@ -1,9 +1,4 @@
----
-title: 实用程序 (bpy.utils)
-order: 8
-category:
-  - blender-dev
----
+# 实用程序 (bpy.utils)
 
 ## bpy.utils
 

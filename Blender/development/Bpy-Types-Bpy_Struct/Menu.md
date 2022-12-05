@@ -1,9 +1,4 @@
----
-title: Menu
-order: 9
-category:
-  - blender-dev
----
+# Menu
 
 ## Description
 

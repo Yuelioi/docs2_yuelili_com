@@ -1,9 +1,4 @@
----
-title: UILayout
-order: 13
-category:
-  - blender-dev
----
+# UILayout
 
 ## Description
 

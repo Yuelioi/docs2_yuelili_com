@@ -1,9 +1,4 @@
----
-title: Branch
-order: 1
-category:
-  - Speed Tree
----
+# Branch
 Interval 模式
 
 ---
@@ -20,4 +15,4 @@ Spread：展开（每一叉舒展开来，不抱团）
 
 Spiral：螺旋（旋转）
 
-![speedtree-20220416110058](/assets/SpeedTree-20220416110058.png)
+![speedtree-20220416110058](https://image-1300893378.cos.ap-shanghai.myqcloud.com/docs/speedtree/SpeedTree-20220416110058.png)

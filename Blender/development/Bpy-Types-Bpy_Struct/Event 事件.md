@@ -1,9 +1,4 @@
----
-title: Event 事件
-order: 6
-category:
-  - blender-dev
----
+# Event 事件
 
 ## Description
 

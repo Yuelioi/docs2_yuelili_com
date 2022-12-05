@@ -1,9 +1,4 @@
----
-title: Modifier总览
-order: 2
-category:
-  - blender-dev
----
+# Modifier总览
 
 ## Description
 

@@ -1,9 +1,4 @@
----
-title: Panel 面板
-order: 10
-category:
-  - blender-dev
----
+# Panel 面板
 
 ## Description
 

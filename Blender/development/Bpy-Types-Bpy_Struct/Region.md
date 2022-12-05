@@ -1,9 +1,4 @@
----
-title: Region
-order: 11
-category:
-  - blender-dev
----
+# Region
 
 ## Description
 

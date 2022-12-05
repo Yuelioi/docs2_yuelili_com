@@ -1,9 +1,4 @@
----
-title: 属性定义（bpy.props）
-order: 11
-category:
-  - blender-dev
----
+# 属性定义（bpy.props）
 
 ## Description
 

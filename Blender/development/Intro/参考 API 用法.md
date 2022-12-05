@@ -1,9 +1,4 @@
----
-title: 【BL开发】参考 API 用法
-order: 4
-category:
-  - blender-dev
----
+# 【BL开发】参考 API 用法
 
 ## 参考 API 范围
 

@@ -1,9 +1,4 @@
----
-title: UIList
-order: 16
-category:
-  - blender-dev
----
+# UIList
 
 ## Description
 

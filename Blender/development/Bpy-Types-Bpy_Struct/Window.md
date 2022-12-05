@@ -1,9 +1,4 @@
----
-title: Window
-order: 15
-category:
-  - blender-dev
----
+# Window
 
 ## Description
 

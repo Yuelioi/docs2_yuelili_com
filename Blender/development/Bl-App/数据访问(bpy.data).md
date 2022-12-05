@@ -1,9 +1,4 @@
----
-title: 数据访问(bpy.data)
-order: 4
-category:
-  - blender-dev
----
+# 数据访问(bpy.data)
 
 ## Description
 

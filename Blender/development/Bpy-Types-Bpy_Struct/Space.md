@@ -1,9 +1,4 @@
----
-title: Space
-order: 12
-category:
-  - blender-dev
----
+# Space
 
 ## Description
 

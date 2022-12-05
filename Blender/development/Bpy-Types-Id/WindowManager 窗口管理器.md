@@ -1,9 +1,4 @@
----
-title: WindowManager 窗口管理器
-order: 4
-category:
-  - blender-dev
----
+# WindowManager 窗口管理器
 
 ## Description
 

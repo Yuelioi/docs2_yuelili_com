@@ -1,9 +1,4 @@
----
-title: ID
-order: 2
-category:
-  - blender-dev
----
+# ID
 
 ## Description
 

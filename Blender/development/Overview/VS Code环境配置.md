@@ -1,9 +1,4 @@
----
-title: 【BL开发】VS Code环境配置
-order: 3
-category:
-  - blender-dev
----
+# 【BL开发】VS Code环境配置
 
 ## Description
 

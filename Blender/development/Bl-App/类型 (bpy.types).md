@@ -1,9 +1,4 @@
----
-title: 类型 (bpy.types)
-order: 7
-category:
-  - blender-dev
----
+# 类型 (bpy.types)
 
 ## 节点类
 

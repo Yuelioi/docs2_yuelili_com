@@ -1,9 +1,4 @@
----
-title: Addon AddonPreferences Addons
-order: 2
-category:
-  - blender-dev
----
+# Addon AddonPreferences Addons
 
 ## Description
 

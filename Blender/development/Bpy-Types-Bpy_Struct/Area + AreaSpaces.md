@@ -1,9 +1,4 @@
----
-title: Area + AreaSpaces
-order: 3
-category:
-  - blender-dev
----
+# Area + AreaSpaces
 
 ## Description
 

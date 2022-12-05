@@ -1,9 +1,4 @@
----
-title: Attribute Property + 8X2个属性子类
-order: 4
-category:
-  - blender-dev
----
+# Attribute Property + 8X2个属性子类
 
 ## Description
 

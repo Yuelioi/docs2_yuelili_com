@@ -1,9 +1,4 @@
----
-title: KeyMap
-order: 8
-category:
-  - blender-dev
----
+# KeyMap
 
 ## Description
 

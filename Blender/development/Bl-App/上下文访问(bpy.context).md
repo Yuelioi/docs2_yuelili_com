@@ -1,9 +1,4 @@
----
-title: 上下文访问(bpy.context)
-order: 3
-category:
-  - blender-dev
----
+# 上下文访问(bpy.context)
 
 ## 上下文是什么？
 

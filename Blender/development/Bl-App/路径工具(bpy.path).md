@@ -1,9 +1,4 @@
----
-title: 路径工具(bpy.path)
-order: 9
-category:
-  - blender-dev
----
+# 路径工具(bpy.path)
 
 ## Description
 

@@ -1,9 +1,4 @@
----
-title: 操作项(bpy.ops)
-order: 6
-category:
-  - blender-dev
----
+# 操作项(bpy.ops)
 
 ## 对应官方文档链接
 

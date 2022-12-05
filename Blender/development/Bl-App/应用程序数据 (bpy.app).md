@@ -1,9 +1,4 @@
----
-title: 应用程序数据 (bpy.app)
-order: 10
-category:
-  - blender-dev
----
+# 应用程序数据 (bpy.app)
 
 ## 应用程序数据 (bpy.app)
 

@@ -1,9 +1,4 @@
----
-title: Mesh
-order: 3
-category:
-  - blender-dev
----
+# Mesh
 
 ## Description
 

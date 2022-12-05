@@ -1,9 +1,4 @@
----
-title: 【BL开发】Python API 概述
-order: 3
-category:
-  - blender-dev
----
+# 【BL开发】Python API 概述
 
 ## 介绍
 

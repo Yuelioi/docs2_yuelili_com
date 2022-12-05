@@ -1,9 +1,4 @@
----
-title: 消息中枢(bpy.msgbus)
-order: 5
-category:
-  - blender-dev
----
+# 消息中枢(bpy.msgbus)
 
 ### Description
 

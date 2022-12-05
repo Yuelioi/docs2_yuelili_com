@@ -1,9 +1,4 @@
----
-title: BlendData
-order: 5
-category:
-  - blender-dev
----
+# BlendData
 
 ## Description
 

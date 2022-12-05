@@ -1,9 +1,4 @@
----
-title: UIPieMenu UIPopover UIPopupMenu
-order: 14
-category:
-  - blender-dev
----
+# UIPieMenu UIPopover UIPopupMenu
 
 ## Description
 

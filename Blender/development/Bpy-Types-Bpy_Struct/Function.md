@@ -1,9 +1,4 @@
----
-title: Function
-order: 7
-category:
-  - blender-dev
----
+# Function
 
 ## Description
 
