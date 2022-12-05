@@ -4,7 +4,7 @@
 
 ```cpp
 vector otherP = point(1,"P", @ptnum);
-// do something with it
+// 其他代码
 ```
 
 另一种方法是在您想要的属性前加上 @opinput1_ 前缀。这隐含地使用了相同的 ptnum，从而节省了对 point() 的调用：
@@ -16,13 +16,13 @@ vector otherP = @opinput1_P;
 与普通 @ 语法相同的规则适用，它会猜测已知属性的类型（P、N、v 等），除非您另有说明，否则任何其他内容都将默认为 float：
 
 ```cpp
-float foo   = @opinput1_myfloat;   // fine, default is float
+float foo   = @opinput1_myfloat;   // 很好, 默认是浮点
 float bar  = f@opinput1_myfloat;   // explicit type
 float myvector  = @opinput1_thevector;   // bug, as thevector will be returned as float
 float workingvector  = v@opinput1_thevector;   // better
 ```
 
-当然，要访问连接到第 3 个或第 4 个插槽的任何其他地理区域，请增加数字（您现在可能已经猜到 0 是第一个输入）：
+当然，要访问连接到第 3 个或第 4 个插槽的任何其他geo区域，请增加数字（您现在可能已经猜到 0 是第一个输入）：
 
 ```cpp
 float two   = @opinput1_myfloat;
