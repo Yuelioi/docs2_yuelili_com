@@ -1,1 +1,0 @@
-与 [[Random Unit Vector in Elliptical Cone in Radians]] 一样，但是可以用[[随机流]]控制

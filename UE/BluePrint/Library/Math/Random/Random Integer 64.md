@@ -1,1 +1,0 @@
-![[../../../../../_Config/Attatchment/Pasted image 20220422121114.png]]

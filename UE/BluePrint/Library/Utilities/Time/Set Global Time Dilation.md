@@ -1,1 +1,0 @@
-[[Get Global Time Dilation]]
