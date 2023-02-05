@@ -1,4 +1,4 @@
-# OMCollection对象
+# OMCollection 对象
 
 ## 输出模块集
 

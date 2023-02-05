@@ -156,8 +156,7 @@ textDocument.boxTextPos
 示例
 
 ```javascript
-// For a paragraph text layer returns [x, y] position from layer anchor point
-in layer coordinates.
+// For a paragraph text layer returns [x, y] position from layer anchor point in layer coordinates.
 // e.g. approximately [0, -25] with default character panel settings.
 var boxTextLayerPos = myTextLayer.sourceText.value.boxTextPos;
 ```

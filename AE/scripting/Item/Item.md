@@ -15,12 +15,24 @@ app.project.items[index]/app.project.item(index)
 ![](https://mir.yuelili.com/wp-content/uploads/2021/07/ae5574d72fcab20f7db365198cf375c5.png)![](https://mir.yuelili.com/wp-content/uploads/2021/07/377413dbc6932dff8dbfe665236d26c8.png)
 
 ```javascript
-var myFolder = app.project.item(2); if (!(myFolder instanceof
-FolderItem)) { alert("error: 第二项不是文件夹"); } else { var numInFolder =
-myFolder.numItems; //删除内容时始终向后运行循环: for (var i = numInFolder; i >= 1; i--) {
-var curItem = myFolder.item(i); if (curItem.parentFolder !== myFolder) {
-alert("AE: 父文件夹未正确设置"); } else { if (!curItem.selected) { //当前项未被选择，则删除.
-curItem.remove(); } } } }
+var myFolder = app.project.item(2);
+if (!(myFolder instanceof FolderItem)) {
+  alert("error: 第二项不是文件夹");
+} else {
+  var numInFolder = myFolder.numItems;
+  //删除内容时始终向后运行循环:
+  for (var i = numInFolder; i >= 1; i--) {
+    var curItem = myFolder.item(i);
+    if (curItem.parentFolder !== myFolder) {
+      alert("AE: 父文件夹未正确设置");
+    } else {
+      if (!curItem.selected) {
+        //当前项未被选择，则删除.
+        curItem.remove();
+      }
+    }
+  }
+}
 ```
 
 ## 属性
@@ -106,14 +118,23 @@ app.project.item(index).parentFolder
 示例：在“项目”面板创建一个新文件夹，并将所有合成移入其中。
 
 ```javascript
-//创建文件夹对象，命名为comps var compFolder =
-app.project.items.addFolder("comps"); // order：判断文件夹在合成前还是后（项目面板） var order =
-true for (var i = 1; i <= app.project.numItems; i++){ alert(i)
-alert(app.project.item(i).name) if (app.project.item(i).name == 'comps'){
-order = false } if (app.project.item(i) instanceof CompItem) {
-app.project.item(i).parentFolder = compFolder;
-//找到合成并添加到文件夹后，如果合成在文件夹前，当前循环数-1，文件总数-1，否则直接循环 if(order == true){ i--; } }
-}
+//创建文件夹对象，命名为comps v
+ar compFolder = app.project.items.addFolder("comps");
+// order：判断文件夹在合成前还是后（项目面板）
+var order = true;
+for (var i = 1; i <= app.project.numItems; i++) {
+  alert(i);
+  alert(app.project.item(i).name);
+  if (app.project.item(i).name == 'comps') {
+    order = false;
+  }
+  if (app.project.item(i) instanceof CompItem) {
+    app.project.item(i).parentFolder = compFolder;
+    //找到合成并添加到文件夹后，如果合成在文件夹前，当前循环数-1，文件总数-1，否则直接循环
+    if(order == true){
+      i--; }
+      }
+  }
 ```
 
 ### selected 选择状态

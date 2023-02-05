@@ -1,4 +1,4 @@
-# 与AE脚本相关的 javascript 元素
+# 与 AE 脚本相关的 javascript 元素
 
 ## Elements of basic JavaScript relevant to After Effects scripting
 
@@ -8,7 +8,7 @@ Scripting shares a global environment, so any script executed at startup candefi
 
 ## Keywords and Statement Syntax
 
-|Para | Description|
+| Para              | Description                                                                                                              |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Keyword/Statement | Description                                                                                                              |
 | `break`           | Standard JavaScript; exit the currently executing loop.                                                                  |
@@ -27,7 +27,7 @@ Scripting shares a global environment, so any script executed at startup candefi
 
 function.
 
-|Para | Description|
+| Para        | Description                                                                                                                    |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | `switch`    | Standard JavaScript way of evaluating a JavaScript expression and attemptingto match the expression’s value to a `case` label. |
 | `this`      | Standard JavaScript method of indicating the current object.                                                                   |
@@ -36,11 +36,11 @@ function.
 
 been assigned a value.
 
-|Para | Description|
-| -------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| `var`    | Standard JavaScript syntax used to declare a local variable.                                                                     |
-| `while`  | Standard JavaScript construct. Similar to the do…whileloop, except loopcondition evaluation occurs at the beginning of the loop. |
-| `with`   | Standard JavaScript construct used to specify an object to use in subsequent                                                     |
+| Para    | Description                                                                                                                      |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| `var`   | Standard JavaScript syntax used to declare a local variable.                                                                     |
+| `while` | Standard JavaScript construct. Similar to the do…whileloop, except loopcondition evaluation occurs at the beginning of the loop. |
+| `with`  | Standard JavaScript construct used to specify an object to use in subsequent                                                     |
 
 statements.
 

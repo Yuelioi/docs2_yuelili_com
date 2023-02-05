@@ -196,14 +196,22 @@ app.project.gpuAccelType
 示例
 
 ```javascript
-// 项目设置 -> 视频渲染与效果 -> 使用 var currentGPUSettings =
-app.project.gpuAccelType; // returns the current value var type_str = ""; //
-1.检查当前选项，并弹窗 switch (currentGPUSettings) { case GpuAccelType.CUDA: type_str =
-"CUDA"; break; case GpuAccelType.METAL: type_str = "Metal"; break; case
-GpuAccelType.OPENCL: type_str = "OpenCL"; break; case GpuAccelType.SOFTWARE:
-type_str = "Software"; break; default: type_str = "UNKNOWN"; } alert("Your
-current setting is " + type_str); // 2.设置加速选项 app.project.gpuAccelType =
-GpuAccelType.METAL;
+// 项目设置 -> 视频渲染与效果 -> 使用 var currentGPUSettings =app.project.gpuAccelType; // returns the current value var type_str = "";
+//1.检查当前选项，并弹窗
+switch (currentGPUSettings) {
+  case GpuAccelType.CUDA: type_str ="CUDA":
+  break;
+  case GpuAccelType.METAL: type_str = "Metal":
+  break;
+  case GpuAccelType.OPENCL: type_str = "OpenCL":
+  break;
+  case GpuAccelType.SOFTWARE:  type_str = "Software";
+  break;
+  default: type_str = "UNKNOWN";
+}
+alert("Your current setting is " + type_str);
+// 2.设置加速选项
+app.project.gpuAccelType =GpuAccelType.METAL;
 ```
 
 ### items 项目
@@ -433,9 +441,12 @@ app.project.workingSpace
 示例
 
 ```javascript
-//将工作空间设置为Rec.709 Gamma 2.4： app.project.workingSpace =
-"Rec.709 Gamma 2.4"; //将工作空间设置为“无”（清空设置）： app.project.workingSpace = "";
-//获得当前的工作空间： var currentSpace = app.project.workingSpace;
+//将工作空间设置为Rec.709 Gamma 2.4：
+app.project.workingSpace = "Rec.709 Gamma 2.4";
+//将工作空间设置为“无”（清空设置）：
+app.project.workingSpace = "";
+//获得当前的工作空间：
+var currentSpace = app.project.workingSpace;
 ```
 
 ### xmpPacket XMP 元数据

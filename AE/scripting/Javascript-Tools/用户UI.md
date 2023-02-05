@@ -1,4 +1,4 @@
-# 用户UI
+# 用户 UI
 
     在线构建：[https://scriptui.joonas.me](https://scriptui.joonas.me/)
 
@@ -30,19 +30,28 @@ new Window (type [, title, bounds, {creation_properties}]);
 示例 1：直接创建
 
 ```javascript
-var dlg = new Window( "dialog", "用户提示" ); // ← ← ←
-创建一个dialog类型窗口，左上角名称为：用户提示 var myMessage = dlg.add ("statictext"); //
-给窗口添加一个静态文字 myMessage.text = "Hello, world!" // 给静态文字添加内容 dlg.show(); // 显示窗体
-
+// 创建一个dialog类型窗口，左上角名称为：用户提示
+var dlg = new Window("dialog", "用户提示");
+// 给窗口添加一个静态文字
+var myMessage = dlg.add("statictext");
+// 给静态文字添加内容
+myMessage.text = "Hello, world!";
+// 显示窗体
+dlg.show();
 ```
 
 示例 2：函数包裹
 
 ```javascript
-var win = createWindow(); win.show(); // 创建UI 函数 function
-createWindow() { var w = new Window('palette',"用户窗口"); // ← ← ←
-创建一个palette类型窗口，左上角名称为：用户提示 var m = w.add('statictext'); m.text = 'Hello,
-world!'; return w; }
+// 创建UI 函数 function
+var win = createWindow();
+win.show();
+createWindow() {
+  var w = new Window('palette',"用户窗口"); // ← ← ← 创建一个palette类型窗口，左上角名称为：用户提示
+  var m = w.add('statictext');
+  m.text = 'Hello,world!';
+  return w;
+  }
 ```
 
 ## 窗体与控件类型
@@ -187,12 +196,12 @@ window.add(ui)
 示例：
 
 ```javascript
-var myWindow = new Window("dialog", "用户提示"); // 定义窗体 //
-直接添加（参数单独分开） var myText = myWindow.add ("statictext", undefined, "Hello
-World") // ← ← ← 添加组件方法1 // 直接添加（参数放在字典里） var myText = myWindow.add
-("statictext {text: 'Hello, world!'}"); // ← ← ← 添加组件方法2 // 先添加 然后给参数赋值 var
-myText = myWindow.add ("statictext") // ← ← ← 添加组件方法3 myText.text = "Hello
-World"
+var myWindow = new Window("dialog", "用户提示"); // 定义窗体
+// 直接添加（参数单独分开）
+var myText = myWindow.add("statictext", undefined, "Hello World"); // ← ← ← 添加组件方法1 // 直接添加（参数放在字典里）
+var myText = myWindow.add("statictext {text: 'Hello, world!'}"); // ← ← ← 添加组件方法2 // 先添加 然后给参数赋值 var
+myText = myWindow.add("statictext"); // ← ← ← 添加组件方法3
+myText.text = "Hello World";
 ```
 
 ### show() 显示窗体
@@ -204,10 +213,9 @@ window.show
 案例：显示窗体
 
 ```javascript
-var myWindow = new Window("dialog", "用户提示"); //
-创建一个dialog类型窗口，左上角名称为：用户提示 var button1 = myWindow.add("button", undefined,
-undefined, { name: "button1" }); button1.text = "我是按钮" myWindow.show(); // ← ←
-← 显示窗体。
+var myWindow = new Window("dialog", "用户提示"); // 创建一个dialog类型窗口，左上角名称为：用户提示
+var button1 = myWindow.add("button", undefined, undefined, { name: "button1" });
+button1.text = "我是按钮" myWindow.show(); // ← ← ← 显示窗体。
 ```
 
 ### onShow() 窗体显示时
@@ -219,8 +227,11 @@ window.onShow
 案例：窗体显示时，弹窗
 
 ```javascript
-var myWindow = new Window("dialog", "窗体"); myWindow.onShow =
-function () { // ← ← ← 显示窗体时运行的函数。 alert("窗体显示啦！") } myWindow.show();
+var myWindow = new Window("dialog", "窗体");
+myWindow.onShow =function () {
+  // ← ← ← 显示窗体时运行的函数。
+  alert("窗体显示啦！")
+  } myWindow.show();
 
 ```
 
@@ -241,12 +252,18 @@ function () { // ← ← ← 显示窗体时运行的函数。 alert("窗体显�
 ![](https://cdn.yuelili.com/20211016120247.png)
 
 ```javascript
-var w = new Window("dialog"); var f = File("/d/test/icon.png")
-//本地图标文件 w.add("iconbutton", undefined, f); // a：按钮里嵌入一个图片 w.add("iconbutton",
-undefined, f, { style: "toolbutton" }); // b：只显示图片，不显示按钮 var t1 =
-w.add("iconbutton", undefined, f, { style: "toolbutton", toggle: true }); //
-c：只显示图片，未切换 var t2 = w.add("iconbutton", undefined, f, { style: "toolbutton",
-toggle: true }); // d：只显示图片，切换 t2.value = true; // ← ← ← 切换时 这里的value为true就行
+var w = new Window("dialog");
+var f = File("/d/test/icon.png");
+//本地图标文件
+w.add("iconbutton", undefined, f);
+// a：按钮里嵌入一个图片
+w.add("iconbutton", undefined, f, { style: "toolbutton" });
+// b：只显示图片，不显示按钮
+var t1 = w.add("iconbutton", undefined, f, { style: "toolbutton", toggle: true });
+// c：只显示图片，未切换
+var t2 = w.add("iconbutton", undefined, f, { style: "toolbutton", toggle: true });
+// d：只显示图片，切换
+t2.value = true; // ← ← ← 切换时 这里的value为true就行
 w.show();
 ```
 
@@ -322,31 +339,22 @@ if (w.show() == 1) {
 // 直接添加
 
 var w = new Window("dialog");
-
 var myList = w.add("listbox", undefined, ["one", "two", "three"]);
-
 w.show();
 
 // 用 add 添加子项
 
 var w = new Window("dialog");
-
 var myList = w.add("listbox");
-
 myList.add("item", "one");
-
 myList.add("item", "three");
-
 myList.add("item", "two", 1); // 1代表插入到第2位
-
 w.show();
 
 // 添加参数（允许多选）
 
 var w = new Window("dialog");
-
 var myList = w.add("listbox", undefined, ["one", "owo", "three"], { multiselect: true });
-
 w.show();
 ```
 
@@ -354,9 +362,7 @@ w.show();
 
 ```javascript
 myList.selection = [0, 1]; // 列表当前选择项
-
 myList.selection = myList.find("two"); // 查找一个子项，并选择（注意 find只能找一个）
-
 myList.revealItem("two"); // 滚动到子项。项目太多的时候，方便查找。参数可以是字符串/index
 ```
 
@@ -366,7 +372,6 @@ myList.revealItem("two"); // 滚动到子项。项目太多的时候，方便查
 
 ```javascript
 myList.items[i].image = File(一个图片路径); // 项目前加图片
-
 myList.items[1].checked = true; // 项目前加一个 √
 ```
 
@@ -377,17 +382,12 @@ myList.items[1].checked = true; // 项目前加一个 √
 ```javascript
 var w = new Window("dialog");
 
-var myList = w.add(
-  "listbox",
-  undefined,
-  " ",
-  {
-    numberOfColumns: 3,
-    showHeaders: true, // 列数与标题化
-    columnTitles: ["English", "French", "Dutch"], // 标题内容
-    columnWidths: [30, 30, 80], // 每列宽度
-  }
-);
+var myList = w.add("listbox", undefined, " ", {
+  numberOfColumns: 3,
+  showHeaders: true, // 列数与标题化
+  columnTitles: ["English", "French", "Dutch"], // 标题内容
+  columnWidths: [30, 30, 80], // 每列宽度
+});
 
 with (myList.add("item", "One")) {
   subItems[0].text = "Un";
@@ -435,49 +435,32 @@ w.show();
 
 ```javascript
 var w = new Window("dialog", "tab 面板演示", undefined, { closeButton: false });
-
 w.alignChildren = "right";
-
 var tpanel = w.add("tabbedpanel");
-
 tpanel.alignChildren = ["fill", "fill"];
-
 tpanel.preferredSize = [350, 300];
 
 // 创建第1个切换面板
-
 var tab1 = tpanel.add("tab", undefined, "tab1");
-
 tab1.alignChildren = "fill";
-
 var group1 = tab1.add("panel", undefined, "组1");
-
 group1.alignChildren = "left";
-
 group1.dtd_decl = group1.add("checkbox", undefined, "选项1");
-
 group1.view_XML = group1.add("checkbox", undefined, "选项2");
-
 group1.export_sel = group1.add("checkbox", undefined, "选项3");
 
 // 创建第2个切换面板
 
 var tab2 = tpanel.add("tab", undefined, "tab2");
-
 tab2.alignChildren = "left";
-
 var group2 = tab2.add("panel", undefined, "组2");
-
 group2.btn = group2.add("button", undefined, "选项1");
 
 // 主面板按钮
 
 var buttons = w.add("group");
-
 buttons.add("button", undefined, "Export", { name: "ok" });
-
 buttons.add("button", undefined, "Cancel");
-
 w.show();
 ```
 
@@ -489,9 +472,7 @@ w.show();
 
 ```javascript
 var w = new Window("dialog");
-
 var myText = w.add('edittext {text: 50, characters: 3, justify: "center", active: true}');
-
 var slider = w.add("slider { minvalue: 0, maxvalue: 100, value: 50 }");
 
 slider.onChanging = function () {

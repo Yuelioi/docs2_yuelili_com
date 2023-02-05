@@ -35,7 +35,8 @@ O 的静态函数；有关详细的参考信息，请参见《[JavaScript 工具
 返回：浮点值，以秒为单位。
 
 ```javascript
-var a = currentFormatToTime('1:25',30) alert(a)
+var a = currentFormatToTime("1:25", 30);
+alert(a);
 ```
 
 1 秒 25 帧（30 帧每秒） = 1.8 秒（具体显示格式根据项目设置，比如丢帧时，返回 1.8333）
@@ -59,9 +60,10 @@ CC 2015(13.5.x)中返回随机值的问题。
 // 随机改变所有图层的X位置（包括锁定图层） var myComp = app.project.activeItem;
 var x = 0;
 for (var i = 1; i <= myComp.numLayers; i++) {
-  // 如果用Math.random(),
-  不会正常工作; // 比如 x = 400 * (Math.random()) – 200; // 用generateRandomNumber()替换 x =
-  400 * generateRandomNumber() - 200;
+  // 如果用Math.random(),  不会正常工作;
+  // 比如 x = 400 * (Math.random()) – 200;
+  // 用generateRandomNumber()替换
+  x = 400 * generateRandomNumber() - 200;
   var currentPos = myComp.layer(i).property("Position").value;
   myComp
     .layer(i)
@@ -88,10 +90,13 @@ for (var i = 1; i <= myComp.numLayers; i++) {
 
 ```javascript
 //在第1个图层上画3个蒙版，运行以下脚本 var layer =
-app.project.activeItem.layer(1); // 记得要画3个蒙版，不然崩了勿怪 alert(isValid(layer)); //
-此时弹出"True＂ var mask1 = layer.mask(1); var mask2 = layer.mask(2); var mask3 =
-layer.mask(3); mask3.moveTo(1); // 把第3个蒙版置顶 alert(isValid(mask1)); //
-弹出"false"; 其他蒙版同理
+app.project.activeItem.layer(1); // 记得要画3个蒙版，不然崩了勿怪
+alert(isValid(layer)); //此时弹出"True＂
+var mask1 = layer.mask(1);
+var mask2 = layer.mask(2);
+var mask3 = layer.mask(3);
+mask3.moveTo(1); // 把第3个蒙版置顶
+alert(isValid(mask1)); //弹出"false"; 其他蒙版同理
 ```
 
 蒙版 3 跑到了顶部，蒙版 1 就不不是第 1 个蒙版了。故返回 false

@@ -86,10 +86,9 @@ importOptions.rangeStart
 示例
 
 ```javascript
-/_
-Import 20 frames of the sequence, starting at frame 10 and ending at frame 30
-_/
-var mySequence = '~/Desktop/sequence/image_000.png';
+// Import 20 frames of the sequence, starting at frame 10 and ending at frame 30
+
+var mySequence = "~/Desktop/sequence/image_000.png";
 
 var importOptions = new ImportOptions();
 importOptions.file = new File(mySequence);
@@ -159,12 +158,8 @@ importOptions.isFileNameNumbered(file)
 
 ```JavaScript
 var importOptions = new ImportOptions();
-importOptions.isFileNameNumbered('image.png'); // "isNumbered": false, "num":
-0
-importOptions.isFileNameNumbered('003image.png'); // "isNumbered": true,
-"num": 3
-importOptions.isFileNameNumbered('ima0102ge.png'); // "isNumbered": true,
-"num": 102
-importOptions.isFileNameNumbered('image0120.png'); // "isNumbered": true,
-"num": 120
+importOptions.isFileNameNumbered('image.png'); // "isNumbered": false, "num": 0
+importOptions.isFileNameNumbered('003image.png'); // "isNumbered": true, "num": 3
+importOptions.isFileNameNumbered('ima0102ge.png'); // "isNumbered": true, "num": 102
+importOptions.isFileNameNumbered('image0120.png'); // "isNumbered": true, "num": 120
 ```

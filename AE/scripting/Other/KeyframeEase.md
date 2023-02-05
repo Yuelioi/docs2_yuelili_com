@@ -9,7 +9,7 @@ myKey = new KeyframeEase(speed, influence);
 - speed：浮点值。设置速度（speed）属性。
 - influence：浮点值，0.01~100.0。设置影响（influence）属性。
 
-#### 示例 1：设置第二个关键帧的缓入缓出
+### 示例 1：设置第二个关键帧的缓入缓出
 
 假定位置具有两个以上的关键帧。右键第二个关键帧 - 关键帧速度
 
@@ -24,7 +24,7 @@ var myPositionProperty = app.project.activeItem.layer(1).property("Position");
 myPositionProperty.setTemporalEaseAtKey(2, [easeIn], [easeOut]);
 ```
 
-#### 示例 2：缩放具有两或三个维度的时间属性。
+### 示例 2：缩放具有两或三个维度的时间属性。
 
 对于 2D 和 3D 属性，必须为每个尺寸设置一个 easeIn 和 easeOut 值，右键第二个关键帧 - 关键帧速度
 

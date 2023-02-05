@@ -61,22 +61,22 @@ app.project.item(index).layer(index).propertyGroupSpec.addProperty(name)
 ![](https://cdn.yuelili.com/20210916221840.png)
 
 ```javascript
-var selLayer = app.project.activeItem.selectedLayers[0];
-//当前选择的图层 var effectsProperty = selLayer.property("ADBE Effect Parade"); var
-slider = effectsProperty.addProperty("ADBE Slider Control"); // 添加滑块 var color
-= effectsProperty.addProperty("ADBE Color Control"); //添加颜色 var sliderProperty
-= slider.property("ADBE Slider Control-0001"); // 引用滑块失效
+var selLayer = app.project.activeItem.selectedLayers[0]; //当前选择的图层
+var effectsProperty = selLayer.property("ADBE Effect Parade");
+var slider = effectsProperty.addProperty("ADBE Slider Control"); // 添加滑块
+var color = effectsProperty.addProperty("ADBE Color Control"); //添加颜色
+var sliderProperty = slider.property("ADBE Slider Control-0001"); // 引用滑块失效
 ```
 
 修改后：
 
 ```javascript
-var selLayer = app.project.activeItem.selectedLayers[0];
-//当前选择的图层 var effectsProperty = selLayer.property("ADBE Effect Parade"); var
-slider = effectsProperty.addProperty("ADBE Slider Control"); // 添加滑块 var
-sliderIndex = slider.propertyIndex; // 储存滑块索引 var color =
-effectsProperty.addProperty("ADBE Color Control"); //添加颜色 var sliderProperty =
-effectsProperty.property(sliderIndex).property("ADBE Slider Control-0001");
+var selLayer = app.project.activeItem.selectedLayers[0]; //当前选择的图层
+var effectsProperty = selLayer.property("ADBE Effect Parade");
+var slider = effectsProperty.addProperty("ADBE Slider Control"); // 添加滑块
+var sliderIndex = slider.propertyIndex; // 储存滑块索引
+var color = effectsProperty.addProperty("ADBE Color Control"); //添加颜色
+var sliderProperty = effectsProperty.property(sliderIndex).property("ADBE Slider Control-0001");
 //正常引用
 ```
 

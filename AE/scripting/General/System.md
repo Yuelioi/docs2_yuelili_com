@@ -1,15 +1,14 @@
 # System 系统
 
-## 系统对象 #
+## 系统对象
 
 描述：System 对象用于访问用户系统的属性，例如用户名以及操作系统的名称和版本号。可通过 system 全局变量使用。
 
 示例
 
 ```javascript
-alert("你的系统名是：" + system.osName + " 运行版本是： +
-system.osVersion); confirm("你的用户名是：: " + system.userName + "，运行在" +
-system.machineName + ".");
+alert("你的系统名是：" + system.osName + " 运行版本是： + system.osVersion);
+confirm("你的用户名是：: " + system.userName + "，运行在" + system.machineName + ".");
 ```
 
 ## 属性篇

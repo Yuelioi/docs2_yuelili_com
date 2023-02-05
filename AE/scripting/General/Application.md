@@ -140,9 +140,12 @@ alert(app.effects.length); //461
 ```
 
 ```javascript
-//获取本机所有效果的匹配名，！注意
-需要等待20秒左右，而且会布满整个屏幕！ var effects = app.effects; var fxName = new Array();
-for(i=0; i < app.effects.length; i++){ fxName.push(effects[i].matchName) }
+//获取本机所有效果的匹配名，！注意 需要等待20秒左右，而且会布满整个屏幕！
+var effects = app.effects;
+var fxName = new Array();
+for (i = 0; i < app.effects.length; i++) {
+  fxName.push(effects[i].matchName);
+}
 alert(fxName);
 ```
 
@@ -273,8 +276,11 @@ alert(app.memoryInUse / 1024 / 1024);
 示例
 
 ```javascript
-// 发生错误，调用一个名为err的函数。 function err(errString) {
-alert(errString) ; } app.onError = err;
+// 发生错误，调用一个名为err的函数。
+function err(errString) {
+  alert(errString);
+}
+app.onError = err;
 ```
 
 ### preferences 首选项
@@ -324,7 +330,7 @@ alert(app.settings.getSetting("SettingA", "ValueA"));
 全名：app.version
 
 ::: info 提示
-此功能于After Effects 12.0(CC)添加
+此功能于 After Effects 12.0(CC)添加
 :::
 
 描述：显示正在运行的 After Effects 版本号
@@ -334,8 +340,8 @@ alert(app.settings.getSetting("SettingA", "ValueA"));
 示例
 
 ```javascript
-var ver = app.version; alert("正在运行 " + ver + " 版本的AE"); //正在运行
-17.5.1x47 版本的AE
+var ver = app.version;
+alert("正在运行 " + ver + " 版本的AE"); //正在运行 17.5.1x47 版本的AE
 ```
 
 ## 方法篇
@@ -424,7 +430,8 @@ app.endUndoGroup();
 返回：无。
 
 ```javascript
-//同时创建三个方形，如果撤销的话，就撤销3个 app.beginUndoGroup("AddSquare");
+//同时创建三个方形，如果撤销的话，就撤销3个
+app.beginUndoGroup("AddSquare");
 myComp = app.project.item(1);
 myComp.layers.addSolid([1.0, 1.0, 0], "square1", 50, 50, 1);
 myComp.layers.addSolid([1.0, 1.0, 0], "square2", 50, 50, 1);
@@ -470,7 +477,8 @@ app.executeCommand(id)
 示例
 
 ```javascript
-// 调用“转换为贝塞尔”命令 app.executeCommand(4162);
+// 调用“转换为贝塞尔”命令
+app.executeCommand(4162);
 ```
 
 ### findMenuCommandId 查找菜单 ID
@@ -678,7 +686,7 @@ n：32 位 Windows 为 2 GB，64 位 Windows 为 4 GB，Mac OS 为 3.5 GB。
 示例
 
 ```javascript
-var theFolder = new Folder("c：/tool");
+var theFolder = new Folder("c:/tool");
 app.watchFolder(theFolder);
 ```
 

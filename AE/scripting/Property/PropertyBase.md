@@ -22,17 +22,17 @@ PropertyBase 是 Property 和 PropertyGroup 的基类，因此在使用属性和
 如果某对象无法引用，则引用改对象的脚本可能报错。例如先删除一个对象，再访问该对象会报错：
 
 ```javascript
-var selLayer = app.project.activeItem.selectedLayers[0];
-//当前选择的图层 selLayer.remove(); //移除该图层 alert(selLayer.name)
-//调用该图层名称，报错
+var selLayer = app.project.activeItem.selectedLayers[0]; //当前选择的图层
+selLayer.remove(); //移除该图层
+alert(selLayer.name); //调用该图层名称，报错
 ```
 
 同样，如果引用已删除图层的属性，也会报错
 
 ```javascript
-var selLayer = app.project.activeItem.selectedLayers[0];
-//当前选择的图层 selLayer.remove(); //移除该图层 alert(selLayer.transform.position)
-//调用该图层位置，报错
+var selLayer = app.project.activeItem.selectedLayers[0]; //当前选择的图层
+selLayer.remove(); //移除该图层
+alert(selLayer.transform.position); //调用该图层位置，报错
 ```
 
 从属性组中删除属性。由于索引位置更改，因此“对象无效”。例如：
@@ -41,8 +41,8 @@ var selLayer = app.project.activeItem.selectedLayers[0];
 var effect1 = app.project.item(1).layer(1).effect(1);
 var effect2 = app.project.item(1).layer(1).effect(2);
 var effect2param = app.project.item(1).layer(1).effect(2).blendWithOriginal;
-effect1.remove();
-//删掉第1个效果 alert(effect2.name); // 调用第2个效果名称报错，因为现在第2个效果跑到第1了
+effect1.remove(); //删掉第1个效果
+alert(effect2.name); // 调用第2个效果名称报错，因为现在第2个效果跑到第1了
 ```
 
 ## 属性
@@ -139,7 +139,7 @@ app.project.item(index).layer(index).propertySpec.enabled
 
 类型：布尔值，如果 canSetEnabled 为 true，为读/写；否则只读。
 
-### isEffect 是否为效果属性组！
+### isEffect 是否为效果属性组
 
 app.project.item(index).layer(index).propertySpec.isEffect
 
@@ -236,8 +236,8 @@ app.project.item(index).layer(index).propertySpec.propertyDepth
 示例：图层的第 1 个效果与图层本身之间，父组级别为 2
 
 ```javascript
-var selLayer = app.project.activeItem.selectedLayers[0];
-//当前选择的图层 alert(selLayer.effect(1).propertyDepth)
+var selLayer = app.project.activeItem.selectedLayers[0]; //当前选择的图层
+alert(selLayer.effect(1).propertyDepth);
 ```
 
 ### propertyIndex 属性索引

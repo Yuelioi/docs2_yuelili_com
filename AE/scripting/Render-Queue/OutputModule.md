@@ -1,4 +1,4 @@
-# OutputModule对象
+# OutputModule 对象
 
 ## 输出模块对象
 
@@ -113,15 +113,17 @@ var omItem1_all_str=app.project.renderQueue.item(1).outputModule(1).getSettings(
 
 var omItem1_all_str_json = omItem1_all_str.toSource();
 
-// Get object that contains string version of settable output module setting
-values
+// Get object that contains string version of settable output module setting values
 // of output module item 1 from render queue item 1.
 // If you want to get the values in the number format, use
 // GetSettingsFormat.NUMBER_SETTABLE as an argument.
 
-var omItem1_settable_str =
-app.project.renderQueue.item(1).outputModule(1).getSettings(
-GetSettingsFormat.STRING_SETTABLE );
+var omItem1_settable_str = app.project.renderQueue
+.item(1)
+.outputModule(1)
+.getSettings(
+GetSettingsFormat.STRING_SETTABLE
+);
 
 // Currently, the format setting in the output module is not settable, but it
 // is readable. The next line will tell you the current format of output

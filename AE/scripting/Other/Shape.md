@@ -84,15 +84,16 @@ myShape.closed = true;
 
 ```javascript
 var myShape = new Shape();
-myShape.vertices = [[100,100], [100,400], [400,400], [400,100]]; // segments
-drawn counter clockwise
+myShape.vertices = [
+  [100, 100],
+  [100, 400],
+  [400, 400],
+  [400, 100],
+]; // segments drawn counter clockwise
 myShape.closed = true;
-myShape.featherSegLocs = [1, 2]; // segments are numbered starting at 0, so
-second segment is 1
-myShape.featherRelSegLocs = [0.15, 0.5]; // 0.15 is closer to the lower-left
-corner of the square
-myShape.featherRadii = [30, 100]; // second feather point (onright-
-sidesegment) has a larger radius
+myShape.featherSegLocs = [1, 2]; // segments are numbered starting at 0, so second segment is 1
+myShape.featherRelSegLocs = [0.15, 0.5]; // 0.15 is closer to the lower-left corner of the square
+myShape.featherRadii = [30, 100]; // second feather point (onright- sidesegment) has a larger radius
 ```
 
 ## 属性

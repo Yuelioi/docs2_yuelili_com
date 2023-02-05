@@ -16,21 +16,22 @@ markerValueObject);
 ![](https://cdn.yuelili.com/20211012172953.png)
 
 ```javascript
-var myMarker = new MarkerValue("我是标记"); // 新建一个标记值
-app.project.activeItem.layer(1).property("Marker").setValueAtTime(2, myMarker);
+// 新建一个标记值
+var myMarker = new MarkerValue("我是标记");
 // 把值加给一个图层或合成的"Marker"属性组里
+app.project.activeItem.layer(1).property("Marker").setValueAtTime(2, myMarker);
 ```
 
 #### 示例 2：获取/修改标记值
 
 ```javascript
-var layer = app.project.activeItem.layer(1) // 定义一个图层 var
-keyComent4 = layer.property("Marker").valueAtTime(4.0, true).comment; //
-"获取"第4秒标记的评论 var compMarker = new MarkerValue("我是图层标记!"); // 定义评论值
-compMarker.label = 9; // 修改标记的属性 var keyComent =
-layer.property("Marker").setValueAtKey(1,compMarker); // "修改"图层第1个标记的评论 var
-mkGroup = layer.property("Marker"); // 定义标记属性组 var key4 =
-mkGroup.keyValue(mkGroup.nearestKeyIndex(4.2)); // 最接近第4秒的标记
+var layer = app.project.activeItem.layer(1); // 定义一个图层
+var keyComent4 = layer.property("Marker").valueAtTime(4.0, true).comment; // "获取"第4秒标记的评论
+var compMarker = new MarkerValue("我是图层标记!"); // 定义评论值
+compMarker.label = 9; // 修改标记的属性
+var keyComent = layer.property("Marker").setValueAtKey(1, compMarker); // "修改"图层第1个标记的评论
+var mkGroup = layer.property("Marker"); // 定义标记属性组
+var key4 = mkGroup.keyValue(mkGroup.nearestKeyIndex(4.2)); // 最接近第4秒的标记
 ```
 
 AE2018 标记设置,AE2019 及之后的标记设置（很多功能没有了）

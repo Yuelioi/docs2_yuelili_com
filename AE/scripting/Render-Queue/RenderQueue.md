@@ -123,8 +123,11 @@ app.project.renderQueue.queueInAME(render_immediately_in_AME)
 示例：检查渲染队列中是否有排队的项目，如果有，则将它们发送到 AME 中排队，但不会立即开始渲染：
 
 ```javascript
-// 在AME中添加渲染队列，需要AME11.0以上 if
-(app.project.renderQueue.canQueueInAME === true) { // 把序列发送到AME排队，但是不开始渲染
-app.project.renderQueue.queueInAME(false); } else { alert("There are no queued
-item in the Render Queue."); }
+// 在AME中添加渲染队列，需要AME11.0以上
+if (app.project.renderQueue.canQueueInAME === true) {
+  // 把序列发送到AME排队，但是不开始渲染
+  app.project.renderQueue.queueInAME(false);
+} else {
+  alert("There are no queued item in the Render Queue.");
+}
 ```

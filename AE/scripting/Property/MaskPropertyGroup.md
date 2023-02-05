@@ -46,8 +46,7 @@ app.project.item(index).layer(index).mask(index).color
 示例：把蒙版前面颜色改为白色
 
 ```javascript
-var comp = app.project.activeItem comp.layer(1).mask(1).color
-= [1,1,1]
+var comp = app.project.activeItem comp.layer(1).mask(1).color = [1,1,1]
 ```
 
 ### inverted 蒙版反转

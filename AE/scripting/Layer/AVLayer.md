@@ -318,7 +318,7 @@ app.project.item(index).layer(index).quality
 app.project.item(index).layer(index).samplingQuality
 
 ::: info 提示
-此功能于After Effects 12.0(CC)添加
+此功能于 After Effects 12.0(CC)添加
 :::
 
 描述：设置/获取图层采样方法(双三次或双线性)。右键图层 - 品质
@@ -502,7 +502,7 @@ for (var sel in transform) {
 }
 ```
 
-## canAddToMotionGraphicsTemplate() 图层能否添加到基本图形！
+## canAddToMotionGraphicsTemplate() 图层能否添加到基本图形
 
 app.project.item(index).layer(index).canAddToMotionGraphicsTemplate(comp)
 

@@ -17,53 +17,59 @@ app.project.item(index).layer(index).propertySpec
 示例：获取并设置不透明度的值
 
 ```javascript
-selLayer = app.project.activeItem.selectedLayers[0];
-//当前选择图层的第1个 var myProperty = selLayer.opacity; //设置不透明度
+selLayer = app.project.activeItem.selectedLayers[0]; //当前选择图层的第1个
+var myProperty = selLayer.opacity; //设置不透明度
 myProperty.setValue(50); //把不透明度改为50
 ```
 
 获取并设置位置的值
 
 ```javascript
-selLayer = app.project.activeItem.selectedLayers[0];
-//当前选择图层的第1个 var myProperty = selLayer.position; //定义位置
+selLayer = app.project.activeItem.selectedLayers[0]; //当前选择图层的第1个
+var myProperty = selLayer.position; //定义位置
 myProperty.setValue([500, 500]); //把位置设置为[500,500]
 ```
 
 将蒙版形状由闭合变为开放
 
 ```javascript
-selLayer = app.project.activeItem.selectedLayers[0];
-//当前选择图层的第1个 var myMask = selLayer.mask(1); //定义蒙版 var myProperty =
-myMask.maskPath; //定义蒙版的路径 myShape = myProperty.value; //定义蒙版路径的形状值
-myShape.closed = false; //形状值里的闭合打开 myProperty.setValue(myShape);
-//把新的形状值设置到路径
+selLayer = app.project.activeItem.selectedLayers[0]; //当前选择图层的第1个
+var myMask = selLayer.mask(1); //定义蒙版
+var myProperty = myMask.maskPath; //定义蒙版的路径
+myShape = myProperty.value; //定义蒙版路径的形状值
+myShape.closed = false; //形状值里的闭合打开
+myProperty.setValue(myShape); //把新的形状值设置到路径
 ```
 
 获取特定时间的颜色值。把 4 秒的灯光的红色分量设置为 2 秒的一半。颜色是四个浮点数组成的数组[r, g, b, alpha]。
 
 ```javascript
-selLight = app.project.activeItem.selectedLayers[0];
-//选择图层集里的第1个（假设是灯光） var myProperty = selLight.color; //定义灯光颜色 var colorValue =
-myProperty.valueAtTime(2, true); //定义灯光在2秒的值 colorValue[0] = 0.5 *
-colorValue[0]; //更改红色值 myProperty.setValueAtTime(4, colorValue);
-//应用更改到第4秒
+selLight = app.project.activeItem.selectedLayers[0]; //选择图层集里的第1个（假设是灯光）
+var myProperty = selLight.color; //定义灯光颜色
+var colorValue = myProperty.valueAtTime(2, true); //定义灯光在2秒的值
+colorValue[0] = 0.5 * colorValue[0]; //更改红色值
+myProperty.setValueAtTime(4, colorValue); //应用更改到第4秒
 ```
 
 检查 3.5 秒处的缩放是否为[10,50]
 
 ```javascript
-selLayer = app.project.activeItem.selectedLayers[0]
-//选择图层集里的第1个（假设是灯光） var myProperty = selLayer.scale; //定义缩放 var scaleValue =
-myProperty.valueAtTime(3.5, false); //获取3.5秒的缩放值 if (scaleValue[0] === 10 &&
-scaleValue[1] === 50) { alert("一样！"); } else { alert("oops！不一样"); }
+selLayer = app.project.activeItem.selectedLayers[0];
+//选择图层集里的第1个（假设是灯光）
+var myProperty = selLayer.scale; //定义缩放
+var scaleValue = myProperty.valueAtTime(3.5, false); //获取3.5秒的缩放值
+if (scaleValue[0] === 10 && scaleValue[1] === 50) {
+  alert("一样！");
+} else {
+  alert("oops！不一样");
+}
 ```
 
 将关键帧从 0 旋转到 90 再到 0。动画为 10 秒，中间关键帧在 5 秒处。
 
 ```javascript
-selLayer = app.project.activeItem.selectedLayers[0];
-//选择图层集里的第1个 var myProperty = selLayer.rotation; //定义旋转
+selLayer = app.project.activeItem.selectedLayers[0]; //选择图层集里的第1个
+var myProperty = selLayer.rotation; //定义旋转
 myProperty.setValueAtTime(0, 0);
 myProperty.setValueAtTime(5, 90);
 myProperty.setValueAtTime(10, 0);
@@ -72,11 +78,15 @@ myProperty.setValueAtTime(10, 0);
 更改源文本的前三个关键帧的文字（有问题 待修改）
 
 ```javascript
-var selLayer = app.project.activeItem.selectedLayers[0];
-//选择图层集里的第1个 var myProperty = selLayer.sourceText; //定义文字源文本属性 if
-(myProperty.numKeys < 3) { alert("哎？请检查是否有3个关键帧"); } else {
-myProperty.setValueAtKey(1, "数字1"); myProperty.setValueAtKey(2, "数字2");
-myProperty.setValueAtKey(3, newTextDocument("数字3")); }
+var selLayer = app.project.activeItem.selectedLayers[0]; //选择图层集里的第1个
+var myProperty = selLayer.sourceText; //定义文字源文本属性
+if (myProperty.numKeys < 3) {
+  alert("哎？请检查是否有3个关键帧");
+} else {
+  myProperty.setValueAtKey(1, "数字1");
+  myProperty.setValueAtKey(2, "数字2");
+  myProperty.setValueAtKey(3, newTextDocument("数字3"));
+}
 ```
 
 ## 属性
@@ -179,13 +189,15 @@ app.project.item(index).layer(index).propertySpec.essentialPropertySource
 示例：
 
 ```javascript
-var firstComp = app.project.item(1); var opacityProp =
-firstComp.layer(1).property("Transform").property("Opacity");
-opacityProp.addToMotionGraphicsTemplate(firstComp); // 添加到基本图形 var secondComp
-= app.project.item(2); secondComp.layers.add(firstComp); var essentialOpacity
-= secondComp.layer(1).essentialProperty.property(1); if
-(essentialOpacity.essentialPropertySource == opacityProp) { alert("You can get
-the source Property from an Essential Property!"); }
+var firstComp = app.project.item(1);
+var opacityProp = firstComp.layer(1).property("Transform").property("Opacity");
+opacityProp.addToMotionGraphicsTemplate(firstComp); // 添加到基本图形
+var secondComp = app.project.item(2);
+secondComp.layers.add(firstComp);
+var essentialOpacity = secondComp.layer(1).essentialProperty.property(1);
+if (essentialOpacity.essentialPropertySource == opacityProp) {
+  alert("You can get the source Property from an Essential Property!");
+}
 ```
 
 ### expression 表达式
@@ -239,8 +251,8 @@ app.project.item(index).layer(index).propertySpec.hasMax
 ![](https://cdn.yuelili.com/20210914173041.png)
 
 ```javascript
-var selLayer = app.project.activeItem.selectedLayers[0]
-alert(selLayer.effect('Slider Control')(1).hasMax) 返回 true
+var selLayer = app.project.activeItem.selectedLayers[0];
+alert(selLayer.effect("Slider Control")(1).hasMax); // 返回 true
 ```
 
 ### hasMin 最小允许值
@@ -277,8 +289,7 @@ Control 的 Menu），并且可以使用 setPropertyParameters 更新其项目�
 
 ```javascript
 var selLayer = app.project.activeItem.selectedLayers[0];
-alert(selLayer.effect("Fractal Noise")("Fractal Type").isDropdownEffect);
-//false
+alert(selLayer.effect("Fractal Noise")("Fractal Type").isDropdownEffect); //false
 ```
 
 ### isSeparationFollower 是否为分离元
@@ -330,8 +341,8 @@ app.project.item(index).layer(index).propertySpec.isSpatial
 类型：布尔值，只读。
 
 ```javascript
-var selLayer = app.project.activeItem.selectedLayers[0];
-//当前选择的图层 alert(selLayer.transform.position.isSpatial) //返回true
+var selLayer = app.project.activeItem.selectedLayers[0]; //当前选择的图层
+alert(selLayer.transform.position.isSpatial); //返回true
 ```
 
 ### isTimeVarying 是否随时间变化
@@ -887,9 +898,9 @@ app.project.item(index).layer(index).propertySpec.setPropertyParameters(items)
 
 ```javascript
 var selLayer = app.project.activeItem.selectedLayers[0];
-//当前选择的图层 var dropdownItems = [ "3A", "3B", "(-", "4A", "4B" ]; var
-dropdownEffect = selLayer.property("ADBE Effect Parade").addProperty("ADBE
-Dropdown Control"); //添加下拉菜单控件
+//当前选择的图层
+var dropdownItems = ["3A", "3B", "(-", "4A", "4B"];
+var dropdownEffect = selLayer.property("ADBE Effect Parade").addProperty("ADBE Dropdown Control"); //添加下拉菜单控件
 dropdownEffect.property(1).setPropertyParameters(dropdownItems);
 ```
 
@@ -1097,8 +1108,7 @@ preExpression)
 
 ```javascript
 var selLayer = app.project.activeItem.selectedLayers[0];
-alert(selLayer.transform.position.valueAtTime(2, true)); //忽略表达式：返回[960,540] var
-selLayer = app.project.activeItem.selectedLayers[0];
-alert(selLayer.transform.position.valueAtTime(2, false));
-//使用表达式值：返回[1200,1100,0] //此时如果删掉表达式，返回[960,540,0]
+alert(selLayer.transform.position.valueAtTime(2, true)); //忽略表达式：返回[960,540]
+var selLayer = app.project.activeItem.selectedLayers[0];
+alert(selLayer.transform.position.valueAtTime(2, false)); //使用表达式值：返回[1200,1100,0]  //此时如果删掉表达式，返回[960,540,0]
 ```
