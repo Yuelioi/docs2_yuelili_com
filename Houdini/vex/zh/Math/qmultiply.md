@@ -1,0 +1,27 @@
+# qmultiply
+
+`vector4 qmultiply(vector4 q1, vector4 q2)`
+
+将两个四元数相乘并返回结果。
+
+四元数
+
+[dihedral](dihedral.html)
+
+[eulertoquaternion](eulertoquaternion.html)
+
+[qconvert](qconvert.html)
+
+[qdistance](qdistance.html)
+
+[qinvert](qinvert.html)
+
+[qmultiply](qmultiply.html)
+
+[qrotate](qrotate.html)
+
+[quaternion](quaternion.html)
+
+[quaterniontoeuler](quaterniontoeuler.html)
+
+[slerp](slerp.html)
