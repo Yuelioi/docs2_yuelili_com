@@ -21,7 +21,7 @@
 
 ## 效果展示
 
-![](https://cdn.yuelili.com/20211229142542.png)
+![](https://cdn.yuelili.com/2021/20211229142542.png)
 
 ## 教程
 
@@ -31,7 +31,7 @@
 
 ![](https://cdn.yuelili.com/20220103220045.png) |
 ![](https://cdn.yuelili.com/20220103220051.png)  
----|---  
+
 |Fractal Noise | 分形杂色 | フラクタルノイズ | | | | | ||
 |---|---|---|---|---|---|---|---|---|
 |Fractal Type | 分形类型 | フラクタルの種類 | Basic | 基本 | 基本 | | ||
@@ -88,47 +88,22 @@
 
 第一层为复杂度 6 的原始形态，第二层为复杂度 1 的基态
 
-|Basic - 基本 | Turbulent Smooth-湍流平滑 | Turbulent Basic-湍流基本 | Turbulent Sharp-|
-湍流锐化  
+|Basic - 基本 | Turbulent Smooth-湍流平滑 | Turbulent Basic-湍流基本 | Turbulent Sharp 湍流锐化  |
 |---|---|---|---|
-![](https://cdn.yuelili.com/20211230170848.png) |
-![](https://cdn.yuelili.com/20211230170907.png) |
-![](https://cdn.yuelili.com/20211230170923.png) |
-![](https://cdn.yuelili.com/20211230170936.png)  
-![](https://cdn.yuelili.com/20211230171734.png) |
-![](https://cdn.yuelili.com/20211230171755.png) |
-![](https://cdn.yuelili.com/20211230171805.png) |
-![](https://cdn.yuelili.com/20211230171820.png)  
+|![](https://cdn.yuelili.com/2021/20211230170848.png) |![](https://cdn.yuelili.com/2021/20211230170907.png) |![](https://cdn.yuelili.com/2021/20211230170923.png) |![](https://cdn.yuelili.com/2021/20211230170936.png)  |
+|![](https://cdn.yuelili.com/2021/20211230171734.png) |![](https://cdn.yuelili.com/2021/20211230171755.png) |![](https://cdn.yuelili.com/2021/20211230171805.png) |![](https://cdn.yuelili.com/2021/20211230171820.png)  |
 |Dynamic -动态 | Dynamic Progressive-动态渐进 | Dynamic Twist-动态扭转 | Max-最大值|
-![](https://cdn.yuelili.com/20211230170953.png) |
-![](https://cdn.yuelili.com/20211230171010.png) |
-![](https://cdn.yuelili.com/20211230171318.png) |
-![](https://cdn.yuelili.com/20211230171430.png)  
-![](https://cdn.yuelili.com/20211230171833.png) |
-![](https://cdn.yuelili.com/20211230171846.png) |
-![](https://cdn.yuelili.com/20211230171846.png) |
-![](https://cdn.yuelili.com/20211230171921.png)  
+|![](https://cdn.yuelili.com/2021/20211230170953.png) |![](https://cdn.yuelili.com/2021/20211230171010.png) |![](https://cdn.yuelili.com/2021/20211230171318.png) |![](https://cdn.yuelili.com/2021/20211230171430.png)  |
+|![](https://cdn.yuelili.com/2021/20211230171833.png) |![](https://cdn.yuelili.com/2021/20211230171846.png) |![](https://cdn.yuelili.com/2021/20211230171846.png) |![](https://cdn.yuelili.com/2021/20211230171921.png)  |
 |Smeary-脏污 | Swirly-涡旋 | Rocky-岩石 | Cloudy-阴天|
-![](https://cdn.yuelili.com/20211230171450.png) |
-![](https://cdn.yuelili.com/20211230171503.png) |
-![](https://cdn.yuelili.com/20211230171515.png) |
-![](https://cdn.yuelili.com/20211230171526.png)  
-![](https://cdn.yuelili.com/20211230171940.png) |
-![](https://cdn.yuelili.com/20211230171949.png) |
-![](https://cdn.yuelili.com/20211230172003.png) |
-![](https://cdn.yuelili.com/20211230172012.png)  
+|![](https://cdn.yuelili.com/2021/20211230171450.png) |![](https://cdn.yuelili.com/2021/20211230171503.png) |![](https://cdn.yuelili.com/2021/20211230171515.png) |![](https://cdn.yuelili.com/2021/20211230171526.png)  |
+|![](https://cdn.yuelili.com/2021/20211230171940.png) |![](https://cdn.yuelili.com/2021/20211230171949.png) |![](https://cdn.yuelili.com/2021/20211230172003.png) |![](https://cdn.yuelili.com/2021/20211230172012.png)  |
 |Terrain-地形 | Subscale-辅助比例 | Small Bumps-小凹凸 | Strings-字符串|
-![](https://cdn.yuelili.com/20211230171537.png) |
-![](https://cdn.yuelili.com/20211230171548.png) |
-![](https://cdn.yuelili.com/20211230171559.png) |
-![](https://cdn.yuelili.com/20211230171609.png)  
-![](https://cdn.yuelili.com/20211230172023.png) |
-![](https://cdn.yuelili.com/20211230172035.png) |
-![](https://cdn.yuelili.com/20211230172046.png) |
-![](https://cdn.yuelili.com/20211230172057.png)  
+|![](https://cdn.yuelili.com/2021/20211230171537.png) |![](https://cdn.yuelili.com/2021/20211230171548.png) |![](https://cdn.yuelili.com/2021/20211230171559.png) |![](https://cdn.yuelili.com/2021/20211230171609.png)|
+ | ![](https://cdn.yuelili.com/2021/20211230172023.png) |![](https://cdn.yuelili.com/2021/20211230172035.png) |![](https://cdn.yuelili.com/2021/20211230172046.png) |![](https://cdn.yuelili.com/2021/20211230172057.png)  |
 |Threads-线程（编织） | | ||
-|![](https://cdn.yuelili.com/20211230171619.png) | | ||
-|![](https://cdn.yuelili.com/20211230172108.png) | | ||
+|![](https://cdn.yuelili.com/2021/20211230171619.png) | | ||
+|![](https://cdn.yuelili.com/2021/20211230172108.png) | | ||
 
 ### 杂色类型
 
